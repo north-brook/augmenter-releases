@@ -1,0 +1,473 @@
+{
+  "notes": [
+    {
+      "commit": "d3539c52d0d8b8fa5a32c19043a4cd503df80062",
+      "date": "2026-10-08T15:51:23Z",
+      "platform": "iphone",
+      "text": "Connections opens as a sheet, with Connect at the foot of each tool's page."
+    },
+    {
+      "commit": "e06d83afcc9e3648461ca6b1561a19bbf4b39f03",
+      "date": "2026-10-08T14:05:38Z",
+      "platform": "mac",
+      "text": "Each item in a todo's menus has an icon beside it."
+    },
+    {
+      "commit": "bdb115994ba3d7401ee5159ac17e783dcf6153d2",
+      "date": "2026-10-08T05:47:19Z",
+      "platform": "mac",
+      "text": "A source's hover card stays whole and in view, and its messages scroll."
+    },
+    {
+      "commit": "8f353a334ce5132478817300e0b2cf8c49ecb53e",
+      "date": "2026-10-08T05:06:01Z",
+      "platform": "all",
+      "text": "A message that was only an image now shows the image on its own."
+    },
+    {
+      "commit": "0cf75f3983b92b2aa54cbd2f2e96d3fc04ee9df3",
+      "date": "2026-10-08T04:38:38Z",
+      "platform": "all",
+      "text": "The blue dot and badge now mark only new todos, not updates."
+    },
+    {
+      "commit": "65ea563c30209d322dd277ac30cd51488fe1e2fe",
+      "date": "2026-10-08T03:58:49Z",
+      "platform": "all",
+      "text": "Coding agents can now manage sections, tags, order, undo and connections through Augmenter."
+    },
+    {
+      "commit": "644494f5d8b9db63c01641fae679985c52595d1d",
+      "date": "2026-10-08T03:35:45Z",
+      "platform": "all",
+      "text": "Only the agent that takes on a pasted todo links itself to it."
+    },
+    {
+      "commit": "8449d2980c0505c3b0b386a6577e9e4f8f8c1708",
+      "date": "2026-10-08T02:09:07Z",
+      "platform": "all",
+      "text": "Briefs cite their sources inline, in a few words of the sentence each backs."
+    },
+    {
+      "commit": "8449d2980c0505c3b0b386a6577e9e4f8f8c1708",
+      "date": "2026-10-08T02:09:07Z",
+      "platform": "mac",
+      "text": "Hover a citation to see its message; click to open it."
+    },
+    {
+      "commit": "8449d2980c0505c3b0b386a6577e9e4f8f8c1708",
+      "date": "2026-10-08T02:09:07Z",
+      "platform": "iphone",
+      "text": "Tap a citation to see its message in a sheet."
+    },
+    {
+      "commit": "029a6572f608d4ec0593296e8475a9a9daefe260",
+      "date": "2026-10-08T01:05:27Z",
+      "platform": "all",
+      "text": "Connect Wispr Flow so action items from its meeting notes become todos."
+    },
+    {
+      "commit": "106fa631a68797612aa2d2a8b3d13b13caa5fd8e",
+      "date": "2026-10-07T23:05:34Z",
+      "platform": "all",
+      "text": "Ask what needs you and the assistant starts with todos at Needs you."
+    },
+    {
+      "commit": "496c9ee70d3b7c9143b45978a8f8eda370d63079",
+      "date": "2026-10-07T22:20:07Z",
+      "platform": "all",
+      "text": "Once you're let in, the waitlist screen opens straight into the app."
+    },
+    {
+      "commit": "83def238bab5e500f13940fc29b8e4db1d6b32bc",
+      "date": "2026-10-07T22:13:46Z",
+      "platform": "all",
+      "text": "After connecting a tool in the browser, you're brought back to the app."
+    },
+    {
+      "commit": "263b10796866f937883e1c2013e25f0c5cbc3029",
+      "date": "2026-10-07T21:41:59Z",
+      "platform": "all",
+      "text": "Emoji codes in GitHub and Slack cards draw as emoji."
+    },
+    {
+      "commit": "e767dbb6cbaa0047139d60bf81d2999d76c6fd44",
+      "date": "2026-10-07T20:30:09Z",
+      "platform": "iphone",
+      "text": "Open TestFlight on the update screen goes straight to Augmenter's page."
+    },
+    {
+      "commit": "05fea7cdf8a53485d7c8d4dc64b7e66a478f575b",
+      "date": "2026-10-07T17:10:13Z",
+      "platform": "mac",
+      "text": "Scrolling over a card in a brief carries on into the notes past its end."
+    },
+    {
+      "commit": "fd6a867fd9eae34ededc6859547a78ee40092adb",
+      "date": "2026-10-07T15:58:46Z",
+      "platform": "mac",
+      "text": "Connect Telegram."
+    },
+    {
+      "commit": "bc3ffe06947a6569a3b378c10adc5b37d0432a9a",
+      "date": "2026-10-07T15:17:35Z",
+      "platform": "all",
+      "text": "Lines you add below a brief are kept as you wrote them."
+    },
+    {
+      "commit": "9cb7660849900057d256792b22a35f1787e6f02f",
+      "date": "2026-10-07T14:42:30Z",
+      "platform": "mac",
+      "text": "Connect WhatsApp."
+    },
+    {
+      "commit": "f348afe1869579e6eb30dcab88f419dd70909317",
+      "date": "2026-10-07T14:06:48Z",
+      "platform": "all",
+      "text": "Needs you, a new status, marks todos where the next move is yours."
+    },
+    {
+      "commit": "2d7b890e31841a43c7f4324ee46f7961a8eb235d",
+      "date": "2026-10-07T02:01:24Z",
+      "platform": "all",
+      "text": "Opening a todo no longer makes its notes jump as source cards load."
+    },
+    {
+      "commit": "4f95e7bb7981598cae8abca3b314ff8be9013510",
+      "date": "2026-10-07T00:42:20Z",
+      "platform": "all",
+      "text": "Source cards in a brief always draw as cards, never as raw text."
+    },
+    {
+      "commit": "53b98992e51cae5395dce3e0395a2e9c7828ecbe",
+      "date": "2026-10-06T17:28:38Z",
+      "platform": "all",
+      "text": "Opening a pull request for a todo moves it to Doing, and its card shows Merged once it merges."
+    },
+    {
+      "commit": "4551959354f4128f354dc3261421d1f6bd0eab85",
+      "date": "2026-10-06T17:21:32Z",
+      "platform": "all",
+      "text": "The Gmail connection page explains what's read and how it's used before you connect."
+    },
+    {
+      "commit": "9dd6294fcc23f8b734b3bd068b9030679c23020e",
+      "date": "2026-10-06T15:56:19Z",
+      "platform": "all",
+      "text": "Inviting people from the app has been removed."
+    },
+    {
+      "commit": "2248935ba92012f0a6371ed954cea3670b06ab42",
+      "date": "2026-10-06T15:07:17Z",
+      "platform": "all",
+      "text": "Todos are filed into sections as they're written; nothing reshuffles them later."
+    },
+    {
+      "commit": "a4a97107448044c0b3b870bce657f35da705cf2f",
+      "date": "2026-10-06T04:08:45Z",
+      "platform": "all",
+      "text": "Check off a todo and a line sweeps through it."
+    },
+    {
+      "commit": "43f0b4b8a5c13e3bedd7da169f19a47d525cb4d0",
+      "date": "2026-10-05T23:50:20Z",
+      "platform": "all",
+      "text": "A coding agent shows on a todo only once it starts working on it."
+    },
+    {
+      "commit": "580f1f99268ffed0f2b8cb43b0e4b2490ed31cf7",
+      "date": "2026-10-05T23:46:12Z",
+      "platform": "all",
+      "text": "A Slack rate limit no longer stalls syncing your connections."
+    },
+    {
+      "commit": "6de8908fa33ce965a391d33e6dc47eeb2a2d0afd",
+      "date": "2026-10-05T23:25:18Z",
+      "platform": "all",
+      "text": "Briefs say what the work is, without guessed checklists of steps."
+    },
+    {
+      "commit": "6de8908fa33ce965a391d33e6dc47eeb2a2d0afd",
+      "date": "2026-10-05T23:25:18Z",
+      "platform": "all",
+      "text": "Coding agents keep a todo's notes to one short, current status."
+    },
+    {
+      "commit": "f186896ab92a90edfc4b8999846aede7cb53261d",
+      "date": "2026-10-05T22:48:13Z",
+      "platform": "all",
+      "text": "A coding agent's logo sits with a todo's tool logos and no longer pulses."
+    },
+    {
+      "commit": "579fffc1502abe95875cf0c40d25a02ae8453cdf",
+      "date": "2026-10-05T22:31:50Z",
+      "platform": "iphone",
+      "text": "Invite and Feedback open as standard sheets, and the account menu matches the Mac's icons."
+    },
+    {
+      "commit": "68918a7aa76f9dac6f83771be3748b7151da37d3",
+      "date": "2026-10-05T22:31:38Z",
+      "platform": "iphone",
+      "text": "The app opens onto your list on a slow network, not a blank screen."
+    },
+    {
+      "commit": "c280d3ec87b01cda03c7ff586a7ee2991adb8cbc",
+      "date": "2026-10-05T22:23:32Z",
+      "platform": "iphone",
+      "text": "A todo's title scrolls away with its notes and fades into the bar."
+    },
+    {
+      "commit": "eebff3a5408bc50cf16a8ce5b407f2319e34f0f3",
+      "date": "2026-10-05T22:14:25Z",
+      "platform": "all",
+      "text": "A blue dot marks todos that changed while you were away."
+    },
+    {
+      "commit": "5e4c245de48c2c2f1a72347b49988edc37f1c6e0",
+      "date": "2026-10-05T20:14:33Z",
+      "platform": "iphone",
+      "text": "Sharing into Augmenter fills the composer, so you can edit before sending."
+    },
+    {
+      "commit": "d794e84e795e725cfe8d0e7a60788f1b95e04f2a",
+      "date": "2026-10-05T19:45:52Z",
+      "platform": "mac",
+      "text": "Copy a todo as markdown with \u21e7\u2318C."
+    },
+    {
+      "commit": "5aae9fbfe7e453ee940a94dca5c3044737a79835",
+      "date": "2026-10-05T19:39:41Z",
+      "platform": "mac",
+      "text": "The row highlight settles on its row without bouncing past it."
+    },
+    {
+      "commit": "d7b27318d03680300e0480d217194e51b9ffcf73",
+      "date": "2026-10-05T19:37:21Z",
+      "platform": "all",
+      "text": "The assistant can edit notes that show a texts card."
+    },
+    {
+      "commit": "f47614293a3a96a4d707bf80cb18691d7e3df80f",
+      "date": "2026-10-05T16:28:27Z",
+      "platform": "all",
+      "text": "A todo shows a logo for every tool its notes draw on, overlapping."
+    },
+    {
+      "commit": "3c271cc04df7f62ba0262fbe7a534c35b4d48181",
+      "date": "2026-10-05T15:50:38Z",
+      "platform": "all",
+      "text": "Todos you type or edit are briefed shortly after."
+    },
+    {
+      "commit": "c7c1ab7899a321309ecfd03b9faa2f7a4ee18c85",
+      "date": "2026-10-05T14:41:19Z",
+      "platform": "all",
+      "text": "Your \u2705 on a Slack message shows as a reaction in its card, not a message from you."
+    },
+    {
+      "commit": "606fc8d3ef889e8bdfacfd0d9a9d36b41fb0d42d",
+      "date": "2026-10-05T14:34:45Z",
+      "platform": "all",
+      "text": "Copied or shared todos end with the same agent instructions Send to includes."
+    },
+    {
+      "commit": "1e5459e232ca1429c37149eac9d0857cd5d769fb",
+      "date": "2026-10-05T03:27:45Z",
+      "platform": "all",
+      "text": "A todo is briefed from its own section's work, never another project's with similar words."
+    },
+    {
+      "commit": "114ad0a1f791fe1282f5c826c7827ea62a88dadd",
+      "date": "2026-10-05T02:24:52Z",
+      "platform": "mac",
+      "text": "The feedback button's tooltip shows its shortcut, \u2318\u21e7F."
+    },
+    {
+      "commit": "a686f40ee7859ab8ff469d6a60dc593948b62ec0",
+      "date": "2026-10-02T19:39:59Z",
+      "platform": "mac",
+      "text": "Spacing and alignment are tidier across dialogs, menus and the list."
+    },
+    {
+      "commit": "2655fcc5a237c4f6c48d9da15a6336468b21d069",
+      "date": "2026-10-02T16:40:14Z",
+      "platform": "mac",
+      "text": "The highlight slides from row to row as you move through the list."
+    },
+    {
+      "commit": "deabb8e2cf07a286353339622950f1c547ac02d8",
+      "date": "2026-10-02T16:06:25Z",
+      "platform": "all",
+      "text": "GitHub pull requests and issues show as cards in briefs."
+    },
+    {
+      "commit": "c5dc6f678473f90139a589f23ccd592ca3b82ace",
+      "date": "2026-10-02T06:36:37Z",
+      "platform": "all",
+      "text": "Your merged pull requests now reliably close the todos they finish."
+    },
+    {
+      "commit": "2ae6390ab0f1c8822a5108d9c651cf6f6390d403",
+      "date": "2026-10-02T06:14:59Z",
+      "platform": "all",
+      "text": "A todo only to attend an event closes once the event has passed."
+    },
+    {
+      "commit": "1f791b2ae8fea773cd19f4b9b90765eb3bf80248",
+      "date": "2026-10-02T05:22:35Z",
+      "platform": "mac",
+      "text": "Send to reopens a todo's agent thread when it already has one."
+    },
+    {
+      "commit": "0ef09bc93bfee441ab2d0c1e27b4f0e460a27be9",
+      "date": "2026-10-02T05:14:00Z",
+      "platform": "mac",
+      "text": "A todo typed before your list finishes loading is kept, not lost."
+    },
+    {
+      "commit": "f8861279fc541528b0d7b0f2f8d62f0882658493",
+      "date": "2026-10-02T04:35:32Z",
+      "platform": "all",
+      "text": "A closed todo no longer shows its agent as still working."
+    },
+    {
+      "commit": "f8861279fc541528b0d7b0f2f8d62f0882658493",
+      "date": "2026-10-02T04:35:32Z",
+      "platform": "mac",
+      "text": "The highlighted row stands out more clearly in light mode."
+    },
+    {
+      "commit": "1d89fe681ed397b106997f298cb8430f0465a5b2",
+      "date": "2026-10-02T04:09:52Z",
+      "platform": "all",
+      "text": "Emails in briefs read the way your mail app shows them, without template clutter."
+    },
+    {
+      "commit": "f8908fcb66cc60807c2cc6205d5fe5a98353c6fa",
+      "date": "2026-10-02T03:06:51Z",
+      "platform": "all",
+      "text": "The ChatGPT and Claude connection pages explain how they work on your todos."
+    },
+    {
+      "commit": "ba0aa7c00f1ffc47bb361767a34bcca0d8787122",
+      "date": "2026-10-01T22:29:57Z",
+      "platform": "all",
+      "text": "Todos finished in another conversation now close on their own."
+    },
+    {
+      "commit": "ba0aa7c00f1ffc47bb361767a34bcca0d8787122",
+      "date": "2026-10-01T22:29:57Z",
+      "platform": "all",
+      "text": "Connect GitHub, and a merged pull request closes the todo it ships."
+    },
+    {
+      "commit": "fd912bd699f1d24b62fdfe67ce624fda4a44d7e1",
+      "date": "2026-10-01T21:23:03Z",
+      "platform": "all",
+      "text": "A message from any connection can now update or close a todo another one made."
+    },
+    {
+      "commit": "fd912bd699f1d24b62fdfe67ce624fda4a44d7e1",
+      "date": "2026-10-01T21:23:03Z",
+      "platform": "all",
+      "text": "Every new todo, including ones you type, gets a researched brief."
+    },
+    {
+      "commit": "31ff6871d7ccda3a801ed8f640a37f720eb71a06",
+      "date": "2026-10-01T21:07:07Z",
+      "platform": "mac",
+      "text": "Send to opens ChatGPT or Claude on the todo's brief, ready to edit before sending."
+    },
+    {
+      "commit": "9342f67df36075d5d39737538a353e249e5fe46e",
+      "date": "2026-10-01T18:56:27Z",
+      "platform": "mac",
+      "text": "With nothing selected, \u2318C copies the todo in front of you as markdown."
+    },
+    {
+      "commit": "330bfced62bff832f96ac826f8a29a810c5ca812",
+      "date": "2026-10-01T18:41:20Z",
+      "platform": "mac",
+      "text": "Connect ChatGPT or Claude from Connections."
+    },
+    {
+      "commit": "330bfced62bff832f96ac826f8a29a810c5ca812",
+      "date": "2026-10-01T18:41:20Z",
+      "platform": "mac",
+      "text": "Press \u21e7\u2318\u21a9 to send a todo to the agent you used last."
+    },
+    {
+      "commit": "ce73ea2297b8124ee96fe7b868538d857334622f",
+      "date": "2026-10-01T17:44:38Z",
+      "platform": "all",
+      "text": "Invitations come back every Monday, and Invite shows each one's status."
+    },
+    {
+      "commit": "046dbe70ee829280f70657f1076b1fa94354ea20",
+      "date": "2026-10-01T05:10:04Z",
+      "platform": "mac",
+      "text": "Copy a todo as markdown, with its quoted messages, from its menu."
+    },
+    {
+      "commit": "046dbe70ee829280f70657f1076b1fa94354ea20",
+      "date": "2026-10-01T05:10:04Z",
+      "platform": "iphone",
+      "text": "Share a todo as markdown from its menu."
+    },
+    {
+      "commit": "046dbe70ee829280f70657f1076b1fa94354ea20",
+      "date": "2026-10-01T05:10:04Z",
+      "platform": "mac",
+      "text": "Send a todo to ChatGPT or Claude, which can work on it through Augmenter."
+    },
+    {
+      "commit": "af66820bcb8cb607ede2121242b83edf6eeed32d",
+      "date": "2026-10-01T03:55:19Z",
+      "platform": "mac",
+      "text": "The calendar's heading names a single month and year."
+    },
+    {
+      "commit": "83b550d680be0dc80d0eb155452be7ad401ea5be",
+      "date": "2026-10-01T03:19:37Z",
+      "platform": "mac",
+      "text": "Press \u2318\u21e7F anywhere to send feedback."
+    },
+    {
+      "commit": "83b550d680be0dc80d0eb155452be7ad401ea5be",
+      "date": "2026-10-01T03:19:37Z",
+      "platform": "mac",
+      "text": "Feedback and Invite open as dialogs over the window."
+    },
+    {
+      "commit": "83b550d680be0dc80d0eb155452be7ad401ea5be",
+      "date": "2026-10-01T03:19:37Z",
+      "platform": "iphone",
+      "text": "Feedback, Invite and Connections slide up from the bottom; swipe down to close."
+    },
+    {
+      "commit": "a167b53dceb3cf56344ceac9997040eeaee96ee6",
+      "date": "2026-10-01T02:34:11Z",
+      "platform": "iphone",
+      "text": "Updates apply as you leave the app, without needing a fresh launch."
+    },
+    {
+      "commit": "71e6b45172090cf04454236dc4a246f090a6c01e",
+      "date": "2026-10-01T01:31:16Z",
+      "platform": "iphone",
+      "text": "The composer's placeholder sits centred in its field."
+    },
+    {
+      "commit": "27b9c622c46d40a78b32df4f590691bccad282c2",
+      "date": "2026-10-01T00:31:50Z",
+      "platform": "all",
+      "text": "Send feedback with a screenshot or file, then book a call with us right after."
+    },
+    {
+      "commit": "425266babdc0712ba9ddef9a97bf40ce5118ef6e",
+      "date": "2026-10-01T00:28:34Z",
+      "platform": "all",
+      "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
+    }
+  ],
+  "through": "d3539c52d0d8b8fa5a32c19043a4cd503df80062"
+}
