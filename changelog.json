@@ -13,12 +13,6 @@
       "text": "After an update, What's new shows what changed since you last opened the app."
     },
     {
-      "commit": "839162661cca645215e205a25b5c271d4a7df928",
-      "date": "2026-10-08T13:04:37-04:00",
-      "platform": "all",
-      "text": "🤖 Generated with [Claude Code](https://claude.com/claude-code)"
-    },
-    {
       "commit": "d3539c52d0d8b8fa5a32c19043a4cd503df80062",
       "date": "2026-10-08T15:51:23Z",
       "platform": "iphone",
