@@ -1,6 +1,24 @@
 {
   "notes": [
     {
+      "commit": "839162661cca645215e205a25b5c271d4a7df928",
+      "date": "2026-10-08T13:04:37-04:00",
+      "platform": "all",
+      "text": "See what changed across Augmenter at augmenter.com/changelog."
+    },
+    {
+      "commit": "839162661cca645215e205a25b5c271d4a7df928",
+      "date": "2026-10-08T13:04:37-04:00",
+      "platform": "mac",
+      "text": "After an update, What's new shows what changed since you last opened the app."
+    },
+    {
+      "commit": "839162661cca645215e205a25b5c271d4a7df928",
+      "date": "2026-10-08T13:04:37-04:00",
+      "platform": "all",
+      "text": "🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+    },
+    {
       "commit": "d3539c52d0d8b8fa5a32c19043a4cd503df80062",
       "date": "2026-10-08T15:51:23Z",
       "platform": "iphone",
@@ -232,7 +250,7 @@
       "commit": "d794e84e795e725cfe8d0e7a60788f1b95e04f2a",
       "date": "2026-10-05T19:45:52Z",
       "platform": "mac",
-      "text": "Copy a todo as markdown with \u21e7\u2318C."
+      "text": "Copy a todo as markdown with ⇧⌘C."
     },
     {
       "commit": "5aae9fbfe7e453ee940a94dca5c3044737a79835",
@@ -262,7 +280,7 @@
       "commit": "c7c1ab7899a321309ecfd03b9faa2f7a4ee18c85",
       "date": "2026-10-05T14:41:19Z",
       "platform": "all",
-      "text": "Your \u2705 on a Slack message shows as a reaction in its card, not a message from you."
+      "text": "Your ✅ on a Slack message shows as a reaction in its card, not a message from you."
     },
     {
       "commit": "606fc8d3ef889e8bdfacfd0d9a9d36b41fb0d42d",
@@ -280,7 +298,7 @@
       "commit": "114ad0a1f791fe1282f5c826c7827ea62a88dadd",
       "date": "2026-10-05T02:24:52Z",
       "platform": "mac",
-      "text": "The feedback button's tooltip shows its shortcut, \u2318\u21e7F."
+      "text": "The feedback button's tooltip shows its shortcut, ⌘⇧F."
     },
     {
       "commit": "a686f40ee7859ab8ff469d6a60dc593948b62ec0",
@@ -382,7 +400,7 @@
       "commit": "9342f67df36075d5d39737538a353e249e5fe46e",
       "date": "2026-10-01T18:56:27Z",
       "platform": "mac",
-      "text": "With nothing selected, \u2318C copies the todo in front of you as markdown."
+      "text": "With nothing selected, ⌘C copies the todo in front of you as markdown."
     },
     {
       "commit": "330bfced62bff832f96ac826f8a29a810c5ca812",
@@ -394,7 +412,7 @@
       "commit": "330bfced62bff832f96ac826f8a29a810c5ca812",
       "date": "2026-10-01T18:41:20Z",
       "platform": "mac",
-      "text": "Press \u21e7\u2318\u21a9 to send a todo to the agent you used last."
+      "text": "Press ⇧⌘↩ to send a todo to the agent you used last."
     },
     {
       "commit": "ce73ea2297b8124ee96fe7b868538d857334622f",
@@ -430,7 +448,7 @@
       "commit": "83b550d680be0dc80d0eb155452be7ad401ea5be",
       "date": "2026-10-01T03:19:37Z",
       "platform": "mac",
-      "text": "Press \u2318\u21e7F anywhere to send feedback."
+      "text": "Press ⌘⇧F anywhere to send feedback."
     },
     {
       "commit": "83b550d680be0dc80d0eb155452be7ad401ea5be",
@@ -469,5 +487,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "d3539c52d0d8b8fa5a32c19043a4cd503df80062"
+  "through": "839162661cca645215e205a25b5c271d4a7df928"
 }
