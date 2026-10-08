@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "ead63fc348fc22ddf86c76c188d3b05b43eaa94c",
+      "date": "2026-10-08T15:10:14-04:00",
+      "platform": "iphone",
+      "text": "Badge updates no longer cause repeated notification processing."
+    },
+    {
       "commit": "839162661cca645215e205a25b5c271d4a7df928",
       "date": "2026-10-08T13:04:37-04:00",
       "platform": "all",
@@ -481,5 +487,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "99b400069569978cff4970ad66516e71fe44ce43"
+  "through": "ead63fc348fc22ddf86c76c188d3b05b43eaa94c"
 }
