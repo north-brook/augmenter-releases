@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "9ae5c882a8f235ea2b7c65a4cc7807a8527af5e9",
+      "date": "2026-10-09T00:48:27-04:00",
+      "platform": "all",
+      "text": "Simple voice requests, like adding or moving a todo, get answered faster."
+    },
+    {
       "commit": "e21a30144118b6c4679263bdf54544a34536b7ce",
       "date": "2026-10-09T00:35:56-04:00",
       "platform": "all",
@@ -535,5 +541,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "e21a30144118b6c4679263bdf54544a34536b7ce"
+  "through": "9ae5c882a8f235ea2b7c65a4cc7807a8527af5e9"
 }
