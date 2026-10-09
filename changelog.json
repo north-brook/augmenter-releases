@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "9cfda848239708224d01595bf5648f5b8b4bce00",
+      "date": "2026-10-09T10:34:37-04:00",
+      "platform": "all",
+      "text": "Texts containing emoji no longer stop Messages, WhatsApp or Telegram from syncing."
+    },
+    {
       "commit": "2be74f3f80804a612ef4d2019a233d4e1855c588",
       "date": "2026-10-09T01:08:19-04:00",
       "platform": "all",
@@ -553,5 +559,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "2e2e01db743b77875af8bc124278ffe4c42a17f7"
+  "through": "9cfda848239708224d01595bf5648f5b8b4bce00"
 }
