@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "ba140022a85348550ee5fd71e489f71a88c2285c",
+      "date": "2026-10-09T11:57:37-04:00",
+      "platform": "all",
+      "text": "Tables in a pull request's description now show as tables in its card, instead of rows of pipes."
+    },
+    {
       "commit": "9cfda848239708224d01595bf5648f5b8b4bce00",
       "date": "2026-10-09T10:34:37-04:00",
       "platform": "all",
@@ -559,5 +565,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "8b5a9174b1717ed0ad61dfbd22ceab2ca4cb6689"
+  "through": "ba140022a85348550ee5fd71e489f71a88c2285c"
 }
