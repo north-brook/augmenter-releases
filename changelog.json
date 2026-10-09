@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "dfd8bd610a15b165e0b9c022cc0e93c2e61842b6",
+      "date": "2026-10-08T22:30:37-04:00",
+      "platform": "all",
+      "text": "When a message changes a todo, its brief is rewritten to include it within a minute, with the message linked in the sentence it backs, instead of a separate line left at the bottom."
+    },
+    {
       "commit": "2245381b713ac3b6d56c39557f9d5863f955f03c",
       "date": "2026-10-08T21:08:41-04:00",
       "platform": "all",
@@ -505,5 +511,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "2245381b713ac3b6d56c39557f9d5863f955f03c"
+  "through": "dfd8bd610a15b165e0b9c022cc0e93c2e61842b6"
 }
