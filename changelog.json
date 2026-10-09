@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2be74f3f80804a612ef4d2019a233d4e1855c588",
+      "date": "2026-10-09T01:08:19-04:00",
+      "platform": "all",
+      "text": "The privacy policy now explains that product analytics include what you do and write in Augmenter, while what your connections bring in stays out unless you choose to contribute it."
+    },
+    {
       "commit": "b254419d96832b4db7251ff42b4d7dc531715dc3",
       "date": "2026-10-09T00:55:59-04:00",
       "platform": "all",
@@ -547,5 +553,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "3f09eaca780caf264b676287600a6d304d6e55d3"
+  "through": "2be74f3f80804a612ef4d2019a233d4e1855c588"
 }
