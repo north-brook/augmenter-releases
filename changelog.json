@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "9ac006f846f4413004b3d852fb395f6362d99283",
+      "date": "2026-10-09T13:54:10-04:00",
+      "platform": "all",
+      "text": "Connecting a tool now brings in the last two weeks of messages instead of one."
+    },
+    {
       "commit": "ba140022a85348550ee5fd71e489f71a88c2285c",
       "date": "2026-10-09T11:57:37-04:00",
       "platform": "all",
@@ -565,5 +571,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "ba140022a85348550ee5fd71e489f71a88c2285c"
+  "through": "9ac006f846f4413004b3d852fb395f6362d99283"
 }
