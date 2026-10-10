@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "74a64c82524420861259c3f290e5ad574db98a1d",
+      "date": "2026-10-09T20:17:57-04:00",
+      "platform": "mac",
+      "text": "Today by status has an Add todo row again, under what's still open."
+    },
+    {
       "commit": "6968bb62e83298dfa0b364683f0e80e13f91c629",
       "date": "2026-10-09T16:21:50-04:00",
       "platform": "all",
@@ -577,5 +583,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "fa32f2f22bd043cf41d34d4474ab27c31f496491"
+  "through": "74a64c82524420861259c3f290e5ad574db98a1d"
 }
