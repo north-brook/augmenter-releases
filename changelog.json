@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "bd1eaedd6cbd524907094307c5d951ef83a24d5d",
+      "date": "2026-10-10T18:27:40-04:00",
+      "platform": "all",
+      "text": "The home page is now a cast-iron loft in lower Manhattan, by day and by night, with a switch for light or dark."
+    },
+    {
       "commit": "74a64c82524420861259c3f290e5ad574db98a1d",
       "date": "2026-10-09T20:17:57-04:00",
       "platform": "mac",
@@ -583,5 +589,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "75e846714eebda6ede84c9351ee8598634aa00ae"
+  "through": "bd1eaedd6cbd524907094307c5d951ef83a24d5d"
 }
