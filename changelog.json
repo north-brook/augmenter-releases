@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "34543bb2bbdb6f4964e17d3c7586434470198f86",
+      "date": "2026-10-12T13:07:16-04:00",
+      "platform": "mac",
+      "text": "Today shows what's open first, with Doing, Snoozed, Done and Upcoming collapsed beneath it, and Later now snoozes a todo until a time you pick without changing its due date."
+    },
+    {
       "commit": "ab1bfbd3f96c4782f9e82595d7ef0f162559e817",
       "date": "2026-10-12T11:14:13-04:00",
       "platform": "all",
@@ -613,5 +619,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "b826c7013155b2ca33d1368fca03e44a7eb7c71c"
+  "through": "34543bb2bbdb6f4964e17d3c7586434470198f86"
 }
