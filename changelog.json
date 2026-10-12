@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "34e131552368e4b3afa4c6e951f00107dcf921fe",
+      "date": "2026-10-12T16:08:31-04:00",
+      "platform": "all",
+      "text": "A call or meeting you set up by text now goes on the todo you already have for talking with that person, instead of a second one."
+    },
+    {
       "commit": "289d8dec953c538c0251dab3ec8dcb9318413409",
       "date": "2026-10-12T15:52:18-04:00",
       "platform": "all",
@@ -631,5 +637,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "289d8dec953c538c0251dab3ec8dcb9318413409"
+  "through": "34e131552368e4b3afa4c6e951f00107dcf921fe"
 }
