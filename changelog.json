@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "88d9c3176bb074fb75c96f347b5eebfeea5d1794",
+      "date": "2026-10-12T18:04:44-04:00",
+      "platform": "mac",
+      "text": "set a todo's priority with ⌥1, ⌥2 or ⌥3, and clear it with ⌥0."
+    },
+    {
       "commit": "34e131552368e4b3afa4c6e951f00107dcf921fe",
       "date": "2026-10-12T16:08:31-04:00",
       "platform": "all",
@@ -637,5 +643,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "db8b2e1863d8a9c9b983af3a4c2a8b1e38b247ed"
+  "through": "88d9c3176bb074fb75c96f347b5eebfeea5d1794"
 }
