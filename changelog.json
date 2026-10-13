@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "b45c425e119333a6c9e17ce998a1b1de5b240950",
+      "date": "2026-10-13T18:15:22-04:00",
+      "platform": "mac",
+      "text": "Marking a task done or snoozing it keeps your place, so the next task is selected and you can keep working down the list. Tasks you're doing stay in your list on Today, in your order, instead of a separate Doing group."
+    },
+    {
       "commit": "746b9a88925d924e3d8519fb507590f99403275c",
       "date": "2026-10-13T17:33:42-04:00",
       "platform": "iphone",
@@ -703,5 +709,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "648443b685e0af70fa9fac77f4a94e6b1b7e9060"
+  "through": "b45c425e119333a6c9e17ce998a1b1de5b240950"
 }
