@@ -1,6 +1,18 @@
 {
   "notes": [
     {
+      "commit": "746b9a88925d924e3d8519fb507590f99403275c",
+      "date": "2026-10-13T17:33:42-04:00",
+      "platform": "iphone",
+      "text": "New installations check for the latest update before opening, and releases without native changes arrive over the air without requiring a new TestFlight build."
+    },
+    {
+      "commit": "746b9a88925d924e3d8519fb507590f99403275c",
+      "date": "2026-10-13T17:33:42-04:00",
+      "platform": "iphone",
+      "text": "---------"
+    },
+    {
       "commit": "7592875e01f3d9ad565589abbafbcd7b344c99c7",
       "date": "2026-10-13T20:58:09Z",
       "platform": "mac",
@@ -691,5 +703,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7592875e01f3d9ad565589abbafbcd7b344c99c7"
+  "through": "746b9a88925d924e3d8519fb507590f99403275c"
 }
