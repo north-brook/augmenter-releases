@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "7e46153c297127252a3850c1320f57c44a2659c9",
+      "date": "2026-10-13T19:29:37Z",
+      "platform": "mac",
+      "text": "Call Augmenter from the Chat tab: what you say shows as you say it, both sides of the call stay in the conversation as ordinary messages with the todos an answer is about, the todo it is about opens beside the chat, and a red pill at the top of the window ends the call when the chat is out of view. iPhone: Call Augmenter from the Chat tab: what you say shows as you say it, both sides of the call stay in the conversation as ordinary messages with the todos an answer is about, the call carries on as you switch tabs, and a red button at the top ends it. iPhone: The microphone permission now says it is for dictation and calls."
+    },
+    {
       "commit": "37fb1282f610d97aeeeee1a645a8b6ac7ac85583",
       "date": "2026-10-13T19:12:52Z",
       "platform": "all",
@@ -673,5 +679,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "37fb1282f610d97aeeeee1a645a8b6ac7ac85583"
+  "through": "7e46153c297127252a3850c1320f57c44a2659c9"
 }
