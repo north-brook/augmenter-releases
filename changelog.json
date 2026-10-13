@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "dcc480b98815be9d580532002039128c4dafd699",
+      "date": "2026-10-13T20:47:12Z",
+      "platform": "iphone",
+      "text": "The composer's mic now dictates what you say into the field as you speak, for you to edit and send."
+    },
+    {
       "commit": "7e46153c297127252a3850c1320f57c44a2659c9",
       "date": "2026-10-13T19:29:37Z",
       "platform": "mac",
@@ -679,5 +685,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "128f67294bfa3f1f02715c09538d0f7bfd15f97a"
+  "through": "dcc480b98815be9d580532002039128c4dafd699"
 }
