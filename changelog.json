@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "168766f2b84c220b767ce9f05cef5374c70235ba",
+      "date": "2026-10-13T18:21:10Z",
+      "platform": "all",
+      "text": "Chat is now its own tab on the Mac and iPhone: one conversation with Augmenter that follows you between devices, shows the todos it makes or mentions as rows you can open, answers in friendly full sentences, and keeps a history of your earlier chats, and shows Augmenter typing while it works rather than every step it takes; on the Mac, the arrow keys and a right-click work on those todos just as they do on your list."
+    },
+    {
       "commit": "2d04a4e86342e06eecaf193c3b466aefa7ce163f",
       "date": "2026-10-13T17:08:49Z",
       "platform": "all",
@@ -661,5 +667,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "0bcf4664fb8abd5955735f45584155de231e1b12"
+  "through": "168766f2b84c220b767ce9f05cef5374c70235ba"
 }
