@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2d04a4e86342e06eecaf193c3b466aefa7ce163f",
+      "date": "2026-10-13T17:08:49Z",
+      "platform": "all",
+      "text": "When someone tells you to take your time on something, its todo no longer stays due or says it is overdue."
+    },
+    {
       "commit": "1175eb037606c70898b02accf344c431fe0d5042",
       "date": "2026-10-13T13:05:45-04:00",
       "platform": "mac",
@@ -655,5 +661,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "1175eb037606c70898b02accf344c431fe0d5042"
+  "through": "2d04a4e86342e06eecaf193c3b466aefa7ce163f"
 }
