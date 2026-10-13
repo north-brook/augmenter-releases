@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "37fb1282f610d97aeeeee1a645a8b6ac7ac85583",
+      "date": "2026-10-13T19:12:52Z",
+      "platform": "all",
+      "text": "The home page's \"Hand off the easy stuff.\" scene keeps Claude and ChatGPT fully on screen on narrower windows."
+    },
+    {
       "commit": "168766f2b84c220b767ce9f05cef5374c70235ba",
       "date": "2026-10-13T18:21:10Z",
       "platform": "all",
@@ -667,5 +673,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "f3f8de6f0287f7eca0309891338ebbae537fe869"
+  "through": "37fb1282f610d97aeeeee1a645a8b6ac7ac85583"
 }
