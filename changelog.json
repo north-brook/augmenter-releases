@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "7592875e01f3d9ad565589abbafbcd7b344c99c7",
+      "date": "2026-10-13T20:58:09Z",
+      "platform": "mac",
+      "text": "An open task has its actions down the right (Done, I'll handle it, Snooze, Send to agent, Drop, Delete), and ↑ and ↓ step to the next task. Mac: Press S to snooze a todo, picking from a menu of times that each show when the todo comes back. Mac: Shortcut hints are capitalized, and a task's status picker shows each status's key. Mac: On Today, the groups open one at a time, the arrow keys step into the group below or above, and an open task stays open. iPhone: An open task has Done, I'll handle it, Snooze and Drop along its foot, and Snooze shows when each option brings it back. iPhone: On Today, the groups open one at a time. Later is now called Snooze on the Mac and iPhone."
+    },
+    {
       "commit": "dcc480b98815be9d580532002039128c4dafd699",
       "date": "2026-10-13T20:47:12Z",
       "platform": "iphone",
@@ -685,5 +691,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "dcc480b98815be9d580532002039128c4dafd699"
+  "through": "7592875e01f3d9ad565589abbafbcd7b344c99c7"
 }
