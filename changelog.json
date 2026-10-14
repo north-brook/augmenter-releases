@@ -1,6 +1,24 @@
 {
   "notes": [
     {
+      "commit": "29149fd307f803669534b82df2da5d5b0a4f6235",
+      "date": "2026-10-14T02:01:56-04:00",
+      "platform": "mac",
+      "text": "Asks, a tab after Chat (⌘4), lists what you're waiting on other people for, each with the face of whoever has it; hover a face to see when you asked."
+    },
+    {
+      "commit": "29149fd307f803669534b82df2da5d5b0a4f6235",
+      "date": "2026-10-14T02:01:56-04:00",
+      "platform": "mac",
+      "text": "Todos show the people they involve, in colour when they're on Augmenter."
+    },
+    {
+      "commit": "29149fd307f803669534b82df2da5d5b0a4f6235",
+      "date": "2026-10-14T02:01:56-04:00",
+      "platform": "mac",
+      "text": "When someone on Augmenter has the todo you asked them for, your ask follows their progress and closes when they finish."
+    },
+    {
       "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
       "date": "2026-10-14T00:53:38Z",
       "platform": "all",
@@ -901,5 +919,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "bae302f7024b28d1666ca6d793f95ab23a9615f6"
+  "through": "29149fd307f803669534b82df2da5d5b0a4f6235"
 }
