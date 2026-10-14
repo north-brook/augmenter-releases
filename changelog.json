@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "84aa76c335db161d5b8db1096c5c760537af38c8",
+      "date": "2026-10-14T16:48:01-04:00",
+      "platform": "mac",
+      "text": "an edit made just as your network drops no longer disappears from the list until you're back online."
+    },
+    {
       "commit": "031aec2923a8d564f89a8f0064176cd94fa13dcb",
       "date": "2026-10-14T16:30:26-04:00",
       "platform": "all",
@@ -1021,5 +1027,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "706a5f300ce79f2c06cb11270d67fadd9d90a1a1"
+  "through": "84aa76c335db161d5b8db1096c5c760537af38c8"
 }
