@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "c4ca3d84fba7cab7384c9eea43bfd856c5c97fa9",
+      "date": "2026-10-14T17:32:26-04:00",
+      "platform": "all",
+      "text": "Rows and open todos show the people they are about first, as faces on their tool logos, with a +N when there are more. Companies, bots, notification senders and your own other addresses no longer show up as people. Mac: people you text show the picture on their Contacts card."
+    },
+    {
       "commit": "1304206de8cb2310ed15286b8b470883db050dff",
       "date": "2026-10-14T16:52:33-04:00",
       "platform": "all",
@@ -1033,5 +1039,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "4d321e46051f7f7b7d51a5a58031b124040b6704"
+  "through": "c4ca3d84fba7cab7384c9eea43bfd856c5c97fa9"
 }
