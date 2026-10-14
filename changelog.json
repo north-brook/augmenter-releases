@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "73fcb1f79f4059579a91995439625ea51bdccef2",
+      "date": "2026-10-14T10:54:18-04:00",
+      "platform": "all",
+      "text": "Every task now has its own worker you can message from the task's page, and Send on a worker's draft sends it."
+    },
+    {
       "commit": "ccabbb4571da0fc56d342742d78090e2045f9c7f",
       "date": "2026-10-14T03:06:48-04:00",
       "platform": "all",
@@ -943,5 +949,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "ccabbb4571da0fc56d342742d78090e2045f9c7f"
+  "through": "73fcb1f79f4059579a91995439625ea51bdccef2"
 }
