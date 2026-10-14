@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "385da7ead0e9b70fe2bd3301db4c8ff5d1a4812e",
+      "date": "2026-10-14T12:36:29-04:00",
+      "platform": "all",
+      "text": "Augmenter waits until you've finished writing a task's notes before its worker starts drafting. Rewriting your notes, or asking for changes, gets you a new draft that replaces the old one."
+    },
+    {
       "commit": "0d3c61b6f52cd7062a9579b94258973bcb5ab075",
       "date": "2026-10-14T12:04:40-04:00",
       "platform": "mac",
@@ -961,5 +967,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "795d8baaa9a9ee6956fa772a0c9870dc219edd01"
+  "through": "385da7ead0e9b70fe2bd3301db4c8ff5d1a4812e"
 }
