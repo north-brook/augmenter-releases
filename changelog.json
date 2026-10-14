@@ -1,6 +1,42 @@
 {
   "notes": [
     {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "all",
+      "text": "Today is one list by status on the Mac and the iPhone; sections are gone, and what you wrote in them is kept as your work."
+    },
+    {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "all",
+      "text": "Setup steps (Connect Slack, Gmail and the rest) sit first among your todos, with no Setup heading."
+    },
+    {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "all",
+      "text": "Augmenter files each todo under the work it belongs to, instead of a section."
+    },
+    {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "mac",
+      "text": "The arrow keys move between setup steps and todos in both directions."
+    },
+    {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "mac",
+      "text": "A task shows the work it belongs to and the people it's with; click one to see everything for it."
+    },
+    {
+      "commit": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2",
+      "date": "2026-10-14T00:53:38Z",
+      "platform": "iphone",
+      "text": "A task shows the work it belongs to and the people it's with; tap one to see everything for it."
+    },
+    {
       "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
       "date": "2026-10-14T00:12:49Z",
       "platform": "all",
@@ -865,5 +901,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a"
+  "through": "4e304ffd25adfb01b6ba5acd55ce6d5ff5614dc2"
 }
