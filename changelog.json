@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "4deeb9d697b616add6631b45f7df71b0d36cead9",
+      "date": "2026-10-14T16:06:14-04:00",
+      "platform": "all",
+      "text": "A drafted text or WhatsApp message now always goes to the person's conversation or their number, never just their name."
+    },
+    {
       "commit": "439148c5846a09f89c2b60f9e41c50cd747367cb",
       "date": "2026-10-14T14:58:25-04:00",
       "platform": "all",
@@ -1003,5 +1009,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "31f758a5df01ca172d4807ea284ad4ca8b8d6030"
+  "through": "4deeb9d697b616add6631b45f7df71b0d36cead9"
 }
