@@ -1,6 +1,18 @@
 {
   "notes": [
     {
+      "commit": "ccabbb4571da0fc56d342742d78090e2045f9c7f",
+      "date": "2026-10-14T03:06:48-04:00",
+      "platform": "all",
+      "text": "When you ask someone for something in a connected tool, it lands in Asks with their face and closes when it arrives."
+    },
+    {
+      "commit": "ccabbb4571da0fc56d342742d78090e2045f9c7f",
+      "date": "2026-10-14T03:06:48-04:00",
+      "platform": "all",
+      "text": "Tell the assistant \"I asked Sarah for the deck by Friday\" and it tracks it in Asks."
+    },
+    {
       "commit": "aa4e4f2325951fc69fa0803b4ee6d1e7a730d490",
       "date": "2026-10-14T02:41:31-04:00",
       "platform": "iphone",
@@ -931,5 +943,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7e10e3fcdb131fe2f13d92f34a4c7b22f55815b0"
+  "through": "ccabbb4571da0fc56d342742d78090e2045f9c7f"
 }
