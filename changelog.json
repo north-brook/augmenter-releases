@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "82a547507afd7a8c59f8793c800ef33f7e838210",
+      "date": "2026-10-14T17:45:01-04:00",
+      "platform": "mac",
+      "text": "a message card opened by resting on a source in a task's notes no longer closes by itself while the task's details load."
+    },
+    {
       "commit": "c4ca3d84fba7cab7384c9eea43bfd856c5c97fa9",
       "date": "2026-10-14T17:32:26-04:00",
       "platform": "all",
@@ -1039,5 +1045,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7caec857610aaf4aa74928e32d77768fd8f9bf83"
+  "through": "82a547507afd7a8c59f8793c800ef33f7e838210"
 }
