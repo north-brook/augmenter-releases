@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "0d3c61b6f52cd7062a9579b94258973bcb5ab075",
+      "date": "2026-10-14T12:04:40-04:00",
+      "platform": "mac",
+      "text": "Augmenter no longer jumps in front of the app you're using when you press a ⌃⌥ shortcut with another key, such as ⌃⌥⌘ window shortcuts or a hyper key."
+    },
+    {
       "commit": "57ed90953c121f1d5c1bfa0dbb7228d8763a8944",
       "date": "2026-10-14T11:21:21-04:00",
       "platform": "mac",
@@ -955,5 +961,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "fa3f0933afd8cea110de817f78111dd0e7db81fa"
+  "through": "0d3c61b6f52cd7062a9579b94258973bcb5ab075"
 }
