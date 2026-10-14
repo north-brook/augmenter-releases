@@ -1,6 +1,162 @@
 {
   "notes": [
     {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A task can have a worker: its thread with the worker sits under the brief, and you can message it. While it works you see it typing, then its reply."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "Every open task has a box at the foot of its page to message about it; writing there gets its worker going, and a task's thread appears once either of you has written."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "While a worker is working on a task you see it typing, and you can stop it from the same box."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "Your message leaves the composer the moment you send it."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "Tell a task's worker \"I've got it\" and it steps back; ask it to change your list or rename the task and it will."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A task a worker is working on shows a turning mark on its row."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A list of items you give a task becomes a checklist, and keeps that form as items are added."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "Workers take on more of your tasks: an appointment, a call or a conversation gets one to find the place, check the details or draft what to say. Shopping lists, chores and short reminders stay yours."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A task's worker keeps its brief short and current, rewriting it rather than adding to it, and leaves your own notes as you wrote them."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A worker's draft shows as a card in the task's thread: edit its words, then Send or Discard, and the card says whether it went."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "When you send or discard a worker's draft, the worker learns what happened and closes the task or takes the next step."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A reply a worker drafts can be sent from your Gmail, in the thread it answers, when you press Send. Connecting Gmail now also asks to send the replies you approve."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A worker can read websites for its task, and asks you to sign in to a site when it needs to, carrying on once you have."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "all",
+      "text": "A todo's day comes from your words, and adding a todo never moves it into another section."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "Press R on a task's page to message its worker."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "Press ⌘↵ to send a draft on a task's page."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "The texts and WhatsApp messages you approve are sent from your Mac, even ones you approved on your phone."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "The I key and the rail's \"I'll handle it\" are gone."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "The action rail beside a task's page is gone, and the card keeps the window's width; S or 9 opens Snooze under the page's ⋯, and the other keys work as before."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "The floating composer is gone: add todos in Today's \"Add todo\" rows, and ask Augmenter in the Chat tab, which / opens from anywhere."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "mac",
+      "text": "A single ⌃⌥ puts the caret in Today's add row, or in Chat its composer; N goes to the add row."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "iphone",
+      "text": "Tap a draft to edit it full screen, then send it."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "iphone",
+      "text": "Sign in to a website for your worker with the iPhone keyboard, passwords and codes filled in as in Safari."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "iphone",
+      "text": "A bell at the top right counts the tasks that need you. Tap it to go through them as cards over your list: swipe left to snooze one (with Undo), right to act on it, or tap to open it; pull down or tap the bell to put them away."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "iphone",
+      "text": "Today has an \"Add todo\" row at the end of the list, with dictation, and the composer now lives in the Chat tab."
+    },
+    {
+      "commit": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a",
+      "date": "2026-10-14T00:12:49Z",
+      "platform": "iphone",
+      "text": "What you share into Augmenter fills Today's add row, or with an image opens the Chat tab."
+    },
+    {
       "commit": "b45c425e119333a6c9e17ce998a1b1de5b240950",
       "date": "2026-10-13T18:15:22-04:00",
       "platform": "mac",
@@ -709,5 +865,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9e767359ca6262ab13d53d99dc355f13973c9030"
+  "through": "d72b2e734aa13ed19c5ec5b8fda0d9bac863ef8a"
 }
