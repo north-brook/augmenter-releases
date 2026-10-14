@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "cd7b7427693a8e2ba71da461e90127a6b4821bc4",
+      "date": "2026-10-14T14:16:45-04:00",
+      "platform": "all",
+      "text": "The worker's sign-in card shows the site's icon."
+    },
+    {
       "commit": "c2d3550d0efe55e8f90a35779165fa955e123e12",
       "date": "2026-10-14T13:32:06-04:00",
       "platform": "mac",
@@ -991,5 +997,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "c2d3550d0efe55e8f90a35779165fa955e123e12"
+  "through": "cd7b7427693a8e2ba71da461e90127a6b4821bc4"
 }
