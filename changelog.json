@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "4805194654813c3b3570270a2f9db5b196a83242",
+      "date": "2026-10-14T12:54:29-04:00",
+      "platform": "mac",
+      "text": "A snoozed task shows how long until it comes back, like 3h or 2d. Mac: Tasks shown in chat now show the same icons and details as on your list."
+    },
+    {
       "commit": "e4cad8a7beda2f9c646e635f5fd9f4b4b9d1f91c",
       "date": "2026-10-14T12:51:35-04:00",
       "platform": "all",
@@ -973,5 +979,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "e4cad8a7beda2f9c646e635f5fd9f4b4b9d1f91c"
+  "through": "4805194654813c3b3570270a2f9db5b196a83242"
 }
