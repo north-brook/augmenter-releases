@@ -1,6 +1,18 @@
 {
   "notes": [
     {
+      "commit": "aa4e4f2325951fc69fa0803b4ee6d1e7a730d490",
+      "date": "2026-10-14T02:41:31-04:00",
+      "platform": "iphone",
+      "text": "Asks, a tab after Chat, lists what you're waiting on other people for, each with the face of whoever has it."
+    },
+    {
+      "commit": "aa4e4f2325951fc69fa0803b4ee6d1e7a730d490",
+      "date": "2026-10-14T02:41:31-04:00",
+      "platform": "iphone",
+      "text": "Todos show the people they involve, in colour when they're on Augmenter."
+    },
+    {
       "commit": "29149fd307f803669534b82df2da5d5b0a4f6235",
       "date": "2026-10-14T02:01:56-04:00",
       "platform": "mac",
@@ -919,5 +931,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "786058f3024cff8bc014d1c141ec2964f291a470"
+  "through": "aa4e4f2325951fc69fa0803b4ee6d1e7a730d490"
 }
