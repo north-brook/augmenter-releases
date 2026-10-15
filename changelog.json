@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "a26d4266fe69180f29a9553db764fb27aef37130",
+      "date": "2026-10-14T23:17:24-04:00",
+      "platform": "all",
+      "text": "People's faces on tasks no longer include websites, products or teams, and a link in a task's title no longer puts a face on it."
+    },
+    {
       "commit": "ad00ec4a9bed9274bc65a94c2c0b1ac870be45e3",
       "date": "2026-10-14T22:37:56-04:00",
       "platform": "all",
@@ -1087,5 +1093,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "a631f77649043504767d84489124f3b3b883e47a"
+  "through": "a26d4266fe69180f29a9553db764fb27aef37130"
 }
