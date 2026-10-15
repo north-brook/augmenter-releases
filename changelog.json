@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "fdf5a47230b734f1b4a00b57373b6b59c1073407",
+      "date": "2026-10-15T01:58:09-04:00",
+      "platform": "all",
+      "text": "When you have more than one Gmail connected, a new email your worker drafts says which address it's from, picked for the task, and is sent from that address."
+    },
+    {
       "commit": "7ce9f7ecca1820b248d513b1e657de7e57a3d4c8",
       "date": "2026-10-15T01:35:54-04:00",
       "platform": "all",
@@ -1111,5 +1117,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7ce9f7ecca1820b248d513b1e657de7e57a3d4c8"
+  "through": "fdf5a47230b734f1b4a00b57373b6b59c1073407"
 }
