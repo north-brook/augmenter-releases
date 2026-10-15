@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "81be9625e380057d79642e3c8a4d5a1f968aa44e",
+      "date": "2026-10-14T21:17:54-04:00",
+      "platform": "all",
+      "text": "A task's worker now knows which accounts you've connected, and asks you to reconnect one rather than drafting something it can't send."
+    },
+    {
       "commit": "f4909166a1fdae88afa32df62f62b7207a67f8e4",
       "date": "2026-10-14T20:14:00-04:00",
       "platform": "all",
@@ -1063,5 +1069,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "f4909166a1fdae88afa32df62f62b7207a67f8e4"
+  "through": "81be9625e380057d79642e3c8a4d5a1f968aa44e"
 }
