@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "58ed346d6e24500df844c176de8d0693e6cb3e25",
+      "date": "2026-10-15T13:34:08-04:00",
+      "platform": "all",
+      "text": "Work tags show their website's icon far more often: Augmenter now learns a job's website from the addresses of the people you work with there."
+    },
+    {
       "commit": "1962cf961e7c6ec7a6287fa8116e300dddc3517f",
       "date": "2026-10-15T13:11:19-04:00",
       "platform": "mac",
@@ -1153,5 +1159,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "1962cf961e7c6ec7a6287fa8116e300dddc3517f"
+  "through": "58ed346d6e24500df844c176de8d0693e6cb3e25"
 }
