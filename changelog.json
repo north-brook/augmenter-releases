@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "bb839b0ba344db000af87a13e6dbe2b7223024f5",
+      "date": "2026-10-15T13:39:40-04:00",
+      "platform": "all",
+      "text": "A worker can now book or buy on a website for you: it shows you exactly what it's about to do, and does it only after you confirm."
+    },
+    {
       "commit": "58ed346d6e24500df844c176de8d0693e6cb3e25",
       "date": "2026-10-15T13:34:08-04:00",
       "platform": "all",
@@ -1159,5 +1165,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "58ed346d6e24500df844c176de8d0693e6cb3e25"
+  "through": "bb839b0ba344db000af87a13e6dbe2b7223024f5"
 }
