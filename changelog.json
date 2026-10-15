@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "5ef5146ce18b0f2c28ed55388846b09bbac75e64",
+      "date": "2026-10-15T05:58:47-04:00",
+      "platform": "all",
+      "text": "A worker can now look things up in each account you've connected, including your GitHub pull requests and issues, and cites what it read in the task's brief."
+    },
+    {
       "commit": "5da2cef1d1d48534f482aa293ccd622004b23982",
       "date": "2026-10-15T04:19:12-04:00",
       "platform": "all",
@@ -1123,5 +1129,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "5da2cef1d1d48534f482aa293ccd622004b23982"
+  "through": "5ef5146ce18b0f2c28ed55388846b09bbac75e64"
 }
