@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "7ce9f7ecca1820b248d513b1e657de7e57a3d4c8",
+      "date": "2026-10-15T01:35:54-04:00",
+      "platform": "all",
+      "text": "Addresses in a task's brief link to Google Maps, so one tap gives directions."
+    },
+    {
       "commit": "7457b08de6ab63f9866a5ad3e24b79d5b34ee145",
       "date": "2026-10-15T00:19:57-04:00",
       "platform": "all",
@@ -1105,5 +1111,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "db6e07e74154a2fab04ad9cd63a36d2c292fb254"
+  "through": "7ce9f7ecca1820b248d513b1e657de7e57a3d4c8"
 }
