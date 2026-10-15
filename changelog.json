@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "a5404c30798707dd9b61667777dfde6b82eafd0e",
+      "date": "2026-10-14T22:17:17-04:00",
+      "platform": "all",
+      "text": "Every change listed in What's new and the changelog starts with a capital letter."
+    },
+    {
       "commit": "e3b6357144956e96897366210f88b3042dfc9a58",
       "date": "2026-10-14T22:05:37-04:00",
       "platform": "all",
@@ -1075,5 +1081,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "e3b6357144956e96897366210f88b3042dfc9a58"
+  "through": "a5404c30798707dd9b61667777dfde6b82eafd0e"
 }
