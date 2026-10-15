@@ -1,6 +1,60 @@
 {
   "notes": [
     {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "Today, Calendar, Asks and Chat are tabs in the system's tab bar, and a task opens inside the tab you opened it from."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "Tap a task's icons to see everyone and everything on it, and open any of them."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "The work a task is for shows its icon among the task's other icons."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "A work's or person's page shows their name and picture in the bar."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "Add a todo from the + at the top right of Today and the Calendar, with its day, priority, dictation and photos or files."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "Opening a long brief continues where you were reading."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "A call with Augmenter shows in the Dynamic Island and on the Lock Screen, where you can mute it or hang up."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "iphone",
+      "text": "Faces show in full colour whether or not someone is on Augmenter."
+    },
+    {
+      "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
+      "date": "2026-10-15T14:28:24-04:00",
+      "platform": "mac",
+      "text": "Chat is last on the rail, after Asks, and ⌘4 opens it."
+    },
+    {
       "commit": "bb839b0ba344db000af87a13e6dbe2b7223024f5",
       "date": "2026-10-15T13:39:40-04:00",
       "platform": "all",
@@ -1165,5 +1219,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "a13390ee63ac965c46fa761f3290c6623db31b54"
+  "through": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb"
 }
