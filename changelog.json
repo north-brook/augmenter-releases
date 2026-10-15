@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "5607fc01610fbb951f1110fa8a11a511d6245086",
+      "date": "2026-10-15T10:06:56-04:00",
+      "platform": "all",
+      "text": "A worker can now search a booking site for you (dates, party size, times) to find what's available, and never books or buys anything itself. A worker can read a site's subdomains, such as a payment or account page, not just its main address."
+    },
+    {
       "commit": "5ef5146ce18b0f2c28ed55388846b09bbac75e64",
       "date": "2026-10-15T05:58:47-04:00",
       "platform": "all",
@@ -1129,5 +1135,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "5ef5146ce18b0f2c28ed55388846b09bbac75e64"
+  "through": "5607fc01610fbb951f1110fa8a11a511d6245086"
 }
