@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "1962cf961e7c6ec7a6287fa8116e300dddc3517f",
+      "date": "2026-10-15T13:11:19-04:00",
+      "platform": "mac",
+      "text": "A worker browsing a website for you recognizes buttons that would buy, book or send on any site, not only ones using familiar words, and leaves them for you to confirm."
+    },
+    {
       "commit": "32dac78451a646fade43977c9eed0b8240479358",
       "date": "2026-10-15T12:46:07-04:00",
       "platform": "all",
@@ -1147,5 +1153,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "32dac78451a646fade43977c9eed0b8240479358"
+  "through": "1962cf961e7c6ec7a6287fa8116e300dddc3517f"
 }
