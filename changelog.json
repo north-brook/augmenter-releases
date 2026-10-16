@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "37d9b15969ae0aedbb21103748b290f9784f203a",
+      "date": "2026-10-16T14:48:08-04:00",
+      "platform": "all",
+      "text": "Work tags show their website's icon for more sites, including ones with long home pages."
+    },
+    {
       "commit": "de854d791e30c13dc1f023bc130ffb77c084aa52",
       "date": "2026-10-16T14:44:01-04:00",
       "platform": "iphone",
@@ -1273,5 +1279,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "de854d791e30c13dc1f023bc130ffb77c084aa52"
+  "through": "37d9b15969ae0aedbb21103748b290f9784f203a"
 }
