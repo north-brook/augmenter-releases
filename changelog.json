@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "8f1e0647351b658bcc6a5862a8abadb8bae17a03",
+      "date": "2026-10-16T14:04:38-04:00",
+      "platform": "iphone",
+      "text": "The Done button on the notes toolbar sits at the right end of the bar again."
+    },
+    {
       "commit": "df52bec32598bb014e3ee3edac7ad61c5e604b8e",
       "date": "2026-10-16T13:55:20-04:00",
       "platform": "all",
@@ -1255,5 +1261,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "df52bec32598bb014e3ee3edac7ad61c5e604b8e"
+  "through": "8f1e0647351b658bcc6a5862a8abadb8bae17a03"
 }
