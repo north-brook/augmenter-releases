@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "e4ad349484fd11fe9c85b2a10250a1d57ec18c3b",
+      "date": "2026-10-16T10:36:09-04:00",
+      "platform": "all",
+      "text": "Sign-in sheets now follow \"Continue with Google\" and other sign-in windows a site opens. Mac: The sign-in sheet shows the site's page at full size, with the site's address in the header and a Cancel button beside I'm done. The sign-in card explains why it needs you in one short line."
+    },
+    {
       "commit": "5ca4a429d930d7297cef29cdcdd40739fbaf31bb",
       "date": "2026-10-15T14:28:24-04:00",
       "platform": "iphone",
@@ -1219,5 +1225,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "191687c65b63cbec519b8c30e9cd558b74b4dbed"
+  "through": "e4ad349484fd11fe9c85b2a10250a1d57ec18c3b"
 }
