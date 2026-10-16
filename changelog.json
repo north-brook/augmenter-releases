@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "445fdd80263f97c6af3c882d7e158b54027209a6",
+      "date": "2026-10-16T12:59:00-04:00",
+      "platform": "all",
+      "text": "Cards in a task's thread share one look on each app, and confirming on a website says exactly which button it presses. iPhone: a text waiting for your Mac can be discarded from the phone."
+    },
+    {
       "commit": "7b318b4002c1edb5566e4eb9aa3e8ab3c8a20f89",
       "date": "2026-10-16T12:14:17-04:00",
       "platform": "mac",
@@ -1231,5 +1237,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "15bfd28b9f8e5e5280cba02e6375eaac62185d17"
+  "through": "445fdd80263f97c6af3c882d7e158b54027209a6"
 }
