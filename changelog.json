@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2c96b558d7428f3cc0a8f4a8d0ce61aa849cc994",
+      "date": "2026-10-16T16:32:25-04:00",
+      "platform": "iphone",
+      "text": "Hold a task to see everything you can do to it, and drag it from there to move it."
+    },
+    {
       "commit": "01863f8fb74c25c76d41448e2594d7db99b9e6e7",
       "date": "2026-10-16T15:24:34-04:00",
       "platform": "iphone",
@@ -1285,5 +1291,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "0dd2ce970f3eec4b21310571cc1061e41bccfe81"
+  "through": "2c96b558d7428f3cc0a8f4a8d0ce61aa849cc994"
 }
