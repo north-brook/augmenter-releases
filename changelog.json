@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "de854d791e30c13dc1f023bc130ffb77c084aa52",
+      "date": "2026-10-16T14:44:01-04:00",
+      "platform": "iphone",
+      "text": "The account picture at the top of the list sits in a round button, matching the + beside it."
+    },
+    {
       "commit": "b1707ea9b09653953bda6d9647e4c3b588b20468",
       "date": "2026-10-16T14:27:44-04:00",
       "platform": "all",
@@ -1267,5 +1273,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "441980ca110fc67798b3a499d5a9e9413a89195e"
+  "through": "de854d791e30c13dc1f023bc130ffb77c084aa52"
 }
