@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "df52bec32598bb014e3ee3edac7ad61c5e604b8e",
+      "date": "2026-10-16T13:55:20-04:00",
+      "platform": "all",
+      "text": "None on its own: users see this with the next PR's controls."
+    },
+    {
       "commit": "60c779af9163e5ab23b9cc8cc54f9fad6a409cf2",
       "date": "2026-10-16T13:40:06-04:00",
       "platform": "all",
@@ -1249,5 +1255,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "0876def59105f67a14518e03ba1266a4f9091f91"
+  "through": "df52bec32598bb014e3ee3edac7ad61c5e604b8e"
 }
