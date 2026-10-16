@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "7859b12fd462e117225796e2d509a2d8e30b03a7",
+      "date": "2026-10-16T17:49:08-04:00",
+      "platform": "mac",
+      "text": "Keyboard shortcuts are now one consistent system: S, T and P open Snooze, Due date and Priority, where a number picks and ⌫ clears. Mac: E renames the highlighted task, J and K move up and down, and ? shows every shortcut. Mac: ⌘N is the one key for a new task, and ⌘1 to ⌘4 follow the tabs in the order they appear. Mac: ⌃⌥ responds instantly: it opens the chat, or dictates into the field you're typing in. Hold esc to end a call."
+    },
+    {
       "commit": "2c96b558d7428f3cc0a8f4a8d0ce61aa849cc994",
       "date": "2026-10-16T16:32:25-04:00",
       "platform": "iphone",
@@ -1291,5 +1297,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "5a5ef7b4b6a185a21a009b2bcc14d4f75f29d68e"
+  "through": "7859b12fd462e117225796e2d509a2d8e30b03a7"
 }
