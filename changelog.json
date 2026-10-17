@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "8e6f0e5a7fa83c82c34eb17d9fab2a33b7025c61",
+      "date": "2026-10-17T10:02:39-07:00",
+      "platform": "all",
+      "text": "Drafted texts and WhatsApp messages are headed by the person they go to, with their number a hover or tap away. A card shows a spinner while it sends, and a check with Sent at its top once it has gone. An answered sign-in reads as a small card with the site and Signed in."
+    },
+    {
       "commit": "16f68f2c9bef74142a2a5229588670996414f417",
       "date": "2026-10-17T03:11:49-04:00",
       "platform": "all",
@@ -1309,5 +1315,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "16f68f2c9bef74142a2a5229588670996414f417"
+  "through": "8e6f0e5a7fa83c82c34eb17d9fab2a33b7025c61"
 }
