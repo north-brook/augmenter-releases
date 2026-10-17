@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "3f30c5aa3f3f7cd4d1d2ca64268b3c296962a1bd",
+      "date": "2026-10-17T10:27:26-07:00",
+      "platform": "all",
+      "text": "After you sign in to a site for a task, its worker now carries on instead of stopping, and its questions show as cards you can answer with a tap."
+    },
+    {
       "commit": "8e6f0e5a7fa83c82c34eb17d9fab2a33b7025c61",
       "date": "2026-10-17T10:02:39-07:00",
       "platform": "all",
@@ -1315,5 +1321,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "f379941897e88dfff530123fbe01de15638d9093"
+  "through": "3f30c5aa3f3f7cd4d1d2ca64268b3c296962a1bd"
 }
