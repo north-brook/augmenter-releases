@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "87e5ba753b8950a38b32151af877cd00fdf507b9",
+      "date": "2026-10-17T16:35:21-07:00",
+      "platform": "all",
+      "text": "A chat reply that finished while the app was in the background no longer shows a \"network connection was lost\" error."
+    },
+    {
       "commit": "ce53c3214358d91e0907951354b0f3c745715d72",
       "date": "2026-10-17T16:10:18-07:00",
       "platform": "all",
@@ -1357,5 +1363,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "bface70fe67f9ac177641e8039300adea5df475a"
+  "through": "87e5ba753b8950a38b32151af877cd00fdf507b9"
 }
