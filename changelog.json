@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "3dbcbbdaed164110161ea6484046a63f7ed84fd3",
+      "date": "2026-10-17T19:24:27Z",
+      "platform": "iphone",
+      "text": "The Connections search field and section headings are aligned properly again."
+    },
+    {
       "commit": "9f0695dae714f19d3e89616cfac8682c7dc78e2e",
       "date": "2026-10-17T10:51:38-07:00",
       "platform": "all",
@@ -1333,5 +1339,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9f0695dae714f19d3e89616cfac8682c7dc78e2e"
+  "through": "3dbcbbdaed164110161ea6484046a63f7ed84fd3"
 }
