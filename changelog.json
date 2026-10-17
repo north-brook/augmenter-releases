@@ -1,6 +1,24 @@
 {
   "notes": [
     {
+      "commit": "ce53c3214358d91e0907951354b0f3c745715d72",
+      "date": "2026-10-17T16:10:18-07:00",
+      "platform": "all",
+      "text": "A new member is guided through connecting their messages, email and meetings before their board builds itself, on the Mac and the iPhone."
+    },
+    {
+      "commit": "ce53c3214358d91e0907951354b0f3c745715d72",
+      "date": "2026-10-17T16:10:18-07:00",
+      "platform": "all",
+      "text": "The board shows a tool's first sync while it runs, rather than asking to connect tools."
+    },
+    {
+      "commit": "ce53c3214358d91e0907951354b0f3c745715d72",
+      "date": "2026-10-17T16:10:18-07:00",
+      "platform": "all",
+      "text": "Your first todos from a newly connected tool appear within a minute or so, newest work first."
+    },
+    {
       "commit": "3dbcbbdaed164110161ea6484046a63f7ed84fd3",
       "date": "2026-10-17T19:24:27Z",
       "platform": "iphone",
@@ -1339,5 +1357,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "a1cdfffd2a0acd86fd249fb49b87c1c99f914ed9"
+  "through": "ce53c3214358d91e0907951354b0f3c745715d72"
 }
