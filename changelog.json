@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "16f68f2c9bef74142a2a5229588670996414f417",
+      "date": "2026-10-17T03:11:49-04:00",
+      "platform": "all",
+      "text": "Signing in to a site for a task no longer gets stuck on a passkey prompt the site can't show; it offers another way instead. Mac: When you sign in to a site for a task, typing goes straight into the page without clicking it first, and the page is sharper on a Retina display."
+    },
+    {
       "commit": "7a87b48e5878777070ff32fe9ee0a82b8c96d7c5",
       "date": "2026-10-17T02:06:30-04:00",
       "platform": "mac",
@@ -1303,5 +1309,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7a87b48e5878777070ff32fe9ee0a82b8c96d7c5"
+  "through": "16f68f2c9bef74142a2a5229588670996414f417"
 }
