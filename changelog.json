@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "a27be069e244cc5ff66682060ffcd534c9cc7243",
+      "date": "2026-10-18T09:51:53-07:00",
+      "platform": "all",
+      "text": "The task thread shows the worker typing whenever it is working on the task, including when a new message filed with the task wakes it."
+    },
+    {
       "commit": "89beedac129a45889097282e58caf929c429593b",
       "date": "2026-10-18T09:34:21-07:00",
       "platform": "all",
@@ -1465,5 +1471,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "89beedac129a45889097282e58caf929c429593b"
+  "through": "a27be069e244cc5ff66682060ffcd534c9cc7243"
 }
