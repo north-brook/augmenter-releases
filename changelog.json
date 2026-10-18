@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "0ecfd4c46aed56719be58803fba993335535a17d",
+      "date": "2026-10-17T22:10:21-07:00",
+      "platform": "all",
+      "text": "When a task's worker uses a website, the site's icon shows with the task, beside the icons of the tools it came from."
+    },
+    {
       "commit": "568fbef1fe452e729f194af54de1aa93e6a5c29d",
       "date": "2026-10-17T22:06:10-07:00",
       "platform": "all",
@@ -1399,5 +1405,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9ad4091df80ccdabc1cc05690a6c45e20c500669"
+  "through": "0ecfd4c46aed56719be58803fba993335535a17d"
 }
