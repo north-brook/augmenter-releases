@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "05b94269de6b7b898dba3862f95bef82fa400c51",
+      "date": "2026-10-18T13:06:59-07:00",
+      "platform": "mac",
+      "text": "A long brief over a task's thread now folds to its first few lines and stays at the top as you scroll the thread; its chevron opens the whole brief."
+    },
+    {
       "commit": "cf2a7e785a002f42ba47498a3fa96ddf6b1916c0",
       "date": "2026-10-18T10:15:42-07:00",
       "platform": "all",
@@ -1483,5 +1489,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "cf2a7e785a002f42ba47498a3fa96ddf6b1916c0"
+  "through": "05b94269de6b7b898dba3862f95bef82fa400c51"
 }
