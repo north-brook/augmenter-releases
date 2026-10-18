@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "89beedac129a45889097282e58caf929c429593b",
+      "date": "2026-10-18T09:34:21-07:00",
+      "platform": "all",
+      "text": "When you tell the assistant about something like a reservation you need to cancel, it finds the confirmation in your email and files the task with the details that matter, such as the cancellation deadline."
+    },
+    {
       "commit": "247a2e80e20375b1acde7eed5e873493f512c0bf",
       "date": "2026-10-18T09:19:00-07:00",
       "platform": "all",
@@ -1459,5 +1465,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "703a7c2054ad39b72b9741a38e24a3d9662fb88c"
+  "through": "89beedac129a45889097282e58caf929c429593b"
 }
