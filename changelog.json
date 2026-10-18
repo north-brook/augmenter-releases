@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "edd3b4a57a0057c147449a29e826e0d0416b5c6c",
+      "date": "2026-10-18T13:27:50-07:00",
+      "platform": "all",
+      "text": "A task's worker can click through websites again, including apps built of script buttons like Figma's settings."
+    },
+    {
       "commit": "05b94269de6b7b898dba3862f95bef82fa400c51",
       "date": "2026-10-18T13:06:59-07:00",
       "platform": "mac",
@@ -1489,5 +1495,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "d070020e0c566fd6da605ace58115896f0a6d681"
+  "through": "edd3b4a57a0057c147449a29e826e0d0416b5c6c"
 }
