@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "ba311c1b68d4aa614c46bac92438e68696c030f4",
+      "date": "2026-10-18T15:30:00-07:00",
+      "platform": "all",
+      "text": "Mac and iPhone: when a task's worker needs to know how one of your GitHub projects works, it reads the repository itself instead of asking you to sign in. iPhone: Augmenter's replies show quotes, lists, headings, code and tables as the Mac does, instead of raw markdown symbols."
+    },
+    {
       "commit": "edd3b4a57a0057c147449a29e826e0d0416b5c6c",
       "date": "2026-10-18T13:27:50-07:00",
       "platform": "all",
@@ -1495,5 +1501,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "edd3b4a57a0057c147449a29e826e0d0416b5c6c"
+  "through": "ba311c1b68d4aa614c46bac92438e68696c030f4"
 }
