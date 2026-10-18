@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "247a2e80e20375b1acde7eed5e873493f512c0bf",
+      "date": "2026-10-18T09:19:00-07:00",
+      "platform": "all",
+      "text": "Phone numbers in a task's thread and brief can be tapped to call, and the assistant links the pages its answers come from."
+    },
+    {
       "commit": "601f591950e584e397e396cdddd1702eac3c4de2",
       "date": "2026-10-18T07:57:47-07:00",
       "platform": "mac",
@@ -1453,5 +1459,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9fc3921d2fc9bcbcf17ce839c8a4e2dfe22eb332"
+  "through": "247a2e80e20375b1acde7eed5e873493f512c0bf"
 }
