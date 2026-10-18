@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "74bdc612823b32c16561ec5a8b1c1384a45110f7",
+      "date": "2026-10-17T22:44:37-07:00",
+      "platform": "all",
+      "text": "A task a worker is on shows it only through its status icon, with no second spinner at the row's end."
+    },
+    {
       "commit": "aed60924619688941560ce9422f1f0eeb78adea5",
       "date": "2026-10-17T22:42:56-07:00",
       "platform": "all",
@@ -1411,5 +1417,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "aed60924619688941560ce9422f1f0eeb78adea5"
+  "through": "74bdc612823b32c16561ec5a8b1c1384a45110f7"
 }
