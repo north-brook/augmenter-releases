@@ -1,6 +1,24 @@
 {
   "notes": [
     {
+      "commit": "29b311f7b8afe9b0498cabba1a66235a5c2ba3d5",
+      "date": "2026-10-17T20:49:45-07:00",
+      "platform": "all",
+      "text": "A task's worker reads and works on the files you attach, and attaches the spreadsheets, documents and PDFs it makes for you."
+    },
+    {
+      "commit": "29b311f7b8afe9b0498cabba1a66235a5c2ba3d5",
+      "date": "2026-10-17T20:49:45-07:00",
+      "platform": "all",
+      "text": "A task's worker reads websites more thoroughly, working a site's own search and booking forms to find what your task needs."
+    },
+    {
+      "commit": "29b311f7b8afe9b0498cabba1a66235a5c2ba3d5",
+      "date": "2026-10-17T20:49:45-07:00",
+      "platform": "all",
+      "text": "When two of your sources disagree on a date or a detail, the worker tells you and drafts a note to confirm it."
+    },
+    {
       "commit": "87e5ba753b8950a38b32151af877cd00fdf507b9",
       "date": "2026-10-17T16:35:21-07:00",
       "platform": "all",
@@ -1363,5 +1381,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "6befdf30bdb2c95d8aadff283efe2434c1a8431e"
+  "through": "29b311f7b8afe9b0498cabba1a66235a5c2ba3d5"
 }
