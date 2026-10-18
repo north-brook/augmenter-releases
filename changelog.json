@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "ba27d4ad2b5258caf33ac4be0f666ab7cbadd997",
+      "date": "2026-10-17T22:58:32-07:00",
+      "platform": "all",
+      "text": "Edits you make to a message a worker drafted are kept: quitting the app or switching between your Mac and iPhone opens the draft as you left it."
+    },
+    {
       "commit": "74bdc612823b32c16561ec5a8b1c1384a45110f7",
       "date": "2026-10-17T22:44:37-07:00",
       "platform": "all",
@@ -1417,5 +1423,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "486cf045b3e2fedc010e58fee907dedb7e2d2bf8"
+  "through": "ba27d4ad2b5258caf33ac4be0f666ab7cbadd997"
 }
