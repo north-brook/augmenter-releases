@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "aed60924619688941560ce9422f1f0eeb78adea5",
+      "date": "2026-10-17T22:42:56-07:00",
+      "platform": "all",
+      "text": "A task's worker can open websites again."
+    },
+    {
       "commit": "0ecfd4c46aed56719be58803fba993335535a17d",
       "date": "2026-10-17T22:10:21-07:00",
       "platform": "all",
@@ -1405,5 +1411,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "aa45676d51f9281c5304f886db34fa7e2aaad693"
+  "through": "aed60924619688941560ce9422f1f0eeb78adea5"
 }
