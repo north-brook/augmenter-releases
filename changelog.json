@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "3e380557f5a2b3e2d536bacc2b7545735d3cdb3f",
+      "date": "2026-10-17T21:05:46-07:00",
+      "platform": "iphone",
+      "text": "Photos you send in Chat and in a task's thread show as photos, not file names."
+    },
+    {
       "commit": "29b311f7b8afe9b0498cabba1a66235a5c2ba3d5",
       "date": "2026-10-17T20:49:45-07:00",
       "platform": "all",
@@ -1381,5 +1387,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "14c73bd60cf5ec01159fa4171b74b1863f7956d7"
+  "through": "3e380557f5a2b3e2d536bacc2b7545735d3cdb3f"
 }
