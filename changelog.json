@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "f326748fbac07c0efb749f0e5b774ad1e3a38722",
+      "date": "2026-10-18T10:09:46-07:00",
+      "platform": "iphone",
+      "text": "A message you send now glides smoothly from the composer into the conversation. iPhone: After you send a long message, the composer goes back to its usual size right away."
+    },
+    {
       "commit": "a27be069e244cc5ff66682060ffcd534c9cc7243",
       "date": "2026-10-18T09:51:53-07:00",
       "platform": "all",
@@ -1471,5 +1477,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7e725b0cfc7a1803835b495b2bac2b0ff31e8ae1"
+  "through": "f326748fbac07c0efb749f0e5b774ad1e3a38722"
 }
