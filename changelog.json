@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "3b596ee9043d5e29463bab655c32a4c72062b082",
+      "date": "2026-10-18T07:26:39-07:00",
+      "platform": "all",
+      "text": "Workers now hand back a plan worked out when the person you were waiting on replies, such as places and times to meet, instead of asking you to fill in the details."
+    },
+    {
       "commit": "ba27d4ad2b5258caf33ac4be0f666ab7cbadd997",
       "date": "2026-10-17T22:58:32-07:00",
       "platform": "all",
@@ -1423,5 +1429,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "36e619e6d6c63a150e7028aa02f232ac3b287afc"
+  "through": "3b596ee9043d5e29463bab655c32a4c72062b082"
 }
