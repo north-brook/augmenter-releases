@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "601f591950e584e397e396cdddd1702eac3c4de2",
+      "date": "2026-10-18T07:57:47-07:00",
+      "platform": "mac",
+      "text": "Resting the pointer on a web link in a todo's notes shows the page beside it."
+    },
+    {
       "commit": "431753c574b9140578b0a76fb74da7a2719f82da",
       "date": "2026-10-18T07:53:32-07:00",
       "platform": "mac",
@@ -1447,5 +1453,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "0703fe0ecfb6f06051a21eb9e80c2a3edcab1e9b"
+  "through": "601f591950e584e397e396cdddd1702eac3c4de2"
 }
