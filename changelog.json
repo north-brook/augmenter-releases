@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "cf2a7e785a002f42ba47498a3fa96ddf6b1916c0",
+      "date": "2026-10-18T10:15:42-07:00",
+      "platform": "all",
+      "text": "When a task needs you to sign in to a website, the worker now asks with a sign-in card more reliably, including on sites that show only a Log In button."
+    },
+    {
       "commit": "f326748fbac07c0efb749f0e5b774ad1e3a38722",
       "date": "2026-10-18T10:09:46-07:00",
       "platform": "iphone",
@@ -1477,5 +1483,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "a4ecd0065cda153ced4e1009d86d2a1825285549"
+  "through": "cf2a7e785a002f42ba47498a3fa96ddf6b1916c0"
 }
