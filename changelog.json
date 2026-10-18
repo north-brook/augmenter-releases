@@ -1,6 +1,24 @@
 {
   "notes": [
     {
+      "commit": "431753c574b9140578b0a76fb74da7a2719f82da",
+      "date": "2026-10-18T07:53:32-07:00",
+      "platform": "mac",
+      "text": "A task you mark done or reschedule from its page slides into its tray and stays there, highlighted, until you open another."
+    },
+    {
+      "commit": "431753c574b9140578b0a76fb74da7a2719f82da",
+      "date": "2026-10-18T07:53:32-07:00",
+      "platform": "mac",
+      "text": "Acting on a todo from the list with the keyboard or its menu keeps your place, moving on only when the todo leaves its group."
+    },
+    {
+      "commit": "431753c574b9140578b0a76fb74da7a2719f82da",
+      "date": "2026-10-18T07:53:32-07:00",
+      "platform": "all",
+      "text": "Today's trays show their count beside the name, and it rolls to the new number as it changes."
+    },
+    {
       "commit": "3b596ee9043d5e29463bab655c32a4c72062b082",
       "date": "2026-10-18T07:26:39-07:00",
       "platform": "all",
@@ -1429,5 +1447,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "100587654af188483cbf0ce897358a5fd778e4b3"
+  "through": "431753c574b9140578b0a76fb74da7a2719f82da"
 }
