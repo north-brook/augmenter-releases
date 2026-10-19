@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "ff3692ac8f83cb4dca0bb509b74e263424440d4a",
+      "date": "2026-10-19T15:06:12Z",
+      "platform": "iphone",
+      "text": "Paste into a website while signing in for a worker, from a bar above the keyboard."
+    },
+    {
       "commit": "5038dea7a7b77415da54d196d218a0a853e67d89",
       "date": "2026-10-18T20:09:16-07:00",
       "platform": "iphone",
@@ -1507,5 +1513,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "358462f7a7b2e0929da3722f16532aa40b91c243"
+  "through": "ff3692ac8f83cb4dca0bb509b74e263424440d4a"
 }
