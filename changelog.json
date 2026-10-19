@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "b309e1b1dd96e3f13b9ef2bd4f5880822faa519e",
+      "date": "2026-10-19T10:11:30-07:00",
+      "platform": "all",
+      "text": "A task's worker no longer asks you a question on a task you wrote for yourself until you write to it."
+    },
+    {
       "commit": "0000d2f94a1920bcd6a9d79361aae782d7e799ed",
       "date": "2026-10-19T10:03:13-07:00",
       "platform": "all",
@@ -1537,5 +1543,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "04377f237e4c99b2c5571c2e1264f1499757b973"
+  "through": "b309e1b1dd96e3f13b9ef2bd4f5880822faa519e"
 }
