@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "5038dea7a7b77415da54d196d218a0a853e67d89",
+      "date": "2026-10-18T20:09:16-07:00",
+      "platform": "iphone",
+      "text": "Editing a draft shows who it goes to as the card does, with a close button at the top and Send across the bottom."
+    },
+    {
       "commit": "ba311c1b68d4aa614c46bac92438e68696c030f4",
       "date": "2026-10-18T15:30:00-07:00",
       "platform": "all",
@@ -1501,5 +1507,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "7df808c6b4c12fa8c0941232494df91aef43d13a"
+  "through": "5038dea7a7b77415da54d196d218a0a853e67d89"
 }
