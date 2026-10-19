@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "15786d55eed5651cb05af0dc9ab60386db547d36",
+      "date": "2026-10-19T19:01:54Z",
+      "platform": "all",
+      "text": "A task a worker updates with a new email or message stays where it was on Today instead of briefly jumping into today's list."
+    },
+    {
       "commit": "2e716f32682abfaa93115384a7de3db863fe4c89",
       "date": "2026-10-19T11:19:57-07:00",
       "platform": "mac",
@@ -1561,5 +1567,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "3d2dff689b72998bc239e75a543c1e322975af78"
+  "through": "15786d55eed5651cb05af0dc9ab60386db547d36"
 }
