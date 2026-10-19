@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2e716f32682abfaa93115384a7de3db863fe4c89",
+      "date": "2026-10-19T11:19:57-07:00",
+      "platform": "mac",
+      "text": "Messages already in a conversation no longer animate when you open it; only new ones rise into place."
+    },
+    {
       "commit": "856980527f459c587d59e30370b9e262d489fa60",
       "date": "2026-10-19T11:02:47-07:00",
       "platform": "mac",
@@ -1555,5 +1561,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9d244e29768bd31ad909ded78f7cc6c021fac100"
+  "through": "2e716f32682abfaa93115384a7de3db863fe4c89"
 }
