@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "57c08a82224213d53ecb9eaa4f29b4bdb54b2b3c",
+      "date": "2026-10-19T09:28:21-07:00",
+      "platform": "all",
+      "text": "The website is redesigned: it now shows Augmenter's apps as they really look, with a light and dark mode you can switch in the footer."
+    },
+    {
       "commit": "ff3692ac8f83cb4dca0bb509b74e263424440d4a",
       "date": "2026-10-19T15:06:12Z",
       "platform": "iphone",
@@ -1513,5 +1519,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "bddecaab1f1fc62314d7bb4800485ff2b9909af6"
+  "through": "57c08a82224213d53ecb9eaa4f29b4bdb54b2b3c"
 }
