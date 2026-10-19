@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "f8340150470bef5ae4f9455575645facfd411bc4",
+      "date": "2026-10-19T09:49:07-07:00",
+      "platform": "iphone",
+      "text": "Done and Upcoming stay where they are on Today when you open the composer to add a todo."
+    },
+    {
       "commit": "d96e1443313c1a6e3b27b450827a2fca9d4a6c75",
       "date": "2026-10-19T09:44:06-07:00",
       "platform": "iphone",
@@ -1525,5 +1531,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "d96e1443313c1a6e3b27b450827a2fca9d4a6c75"
+  "through": "f8340150470bef5ae4f9455575645facfd411bc4"
 }
