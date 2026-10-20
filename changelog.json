@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "6eb729baf1f1027b887b384761b85b9254a59dfe",
+      "date": "2026-10-19T19:48:47-07:00",
+      "platform": "mac",
+      "text": "Augmenter shows in the menu bar again, Hide works, and clicking its Dock icon brings it forward."
+    },
+    {
       "commit": "2dbe18bda0e369baf3f48482c070c18f0b8167ed",
       "date": "2026-10-19T18:03:21-07:00",
       "platform": "all",
@@ -1627,5 +1633,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "8741b1e129df957161107d9d25f9efa70cd23adc"
+  "through": "6eb729baf1f1027b887b384761b85b9254a59dfe"
 }
