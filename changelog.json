@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "4590dba823a9ea79537859b990c4c7f50396518e",
+      "date": "2026-10-20T08:57:57-07:00",
+      "platform": "all",
+      "text": "A worker that finishes or drops a task withdraws its unsent cards."
+    },
+    {
       "commit": "dba1e0748844c84732cdce8ac29cbe36e0614943",
       "date": "2026-10-20T08:26:15-07:00",
       "platform": "iphone",
@@ -1657,5 +1663,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "dc1a6b686c486c8d51c64032120b61fed3de3894"
+  "through": "4590dba823a9ea79537859b990c4c7f50396518e"
 }
