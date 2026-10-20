@@ -1,6 +1,18 @@
 {
   "notes": [
     {
+      "commit": "9377c2dfca97c9913ac2d17ee905bc2599fa255e",
+      "date": "2026-10-20T07:53:32-07:00",
+      "platform": "all",
+      "text": "When a task's worker can't finish, it now says so in the task's thread so you can ask again."
+    },
+    {
+      "commit": "9377c2dfca97c9913ac2d17ee905bc2599fa255e",
+      "date": "2026-10-20T07:53:32-07:00",
+      "platform": "all",
+      "text": "A worker that never finishes no longer keeps its task marked Doing."
+    },
+    {
       "commit": "5b76e3d540a4126aac8a14644e309a2e6a7521a9",
       "date": "2026-10-20T07:29:03-07:00",
       "platform": "all",
@@ -1639,5 +1651,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "506dc47d77667bc675dae5ebc5b6e30c4c218c25"
+  "through": "9377c2dfca97c9913ac2d17ee905bc2599fa255e"
 }
