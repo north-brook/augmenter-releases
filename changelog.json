@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "5b76e3d540a4126aac8a14644e309a2e6a7521a9",
+      "date": "2026-10-20T07:29:03-07:00",
+      "platform": "all",
+      "text": "During the beta, our team can see what your connections bring in, so we can fix what breaks; onboarding and the privacy policy say so."
+    },
+    {
       "commit": "6eb729baf1f1027b887b384761b85b9254a59dfe",
       "date": "2026-10-19T19:48:47-07:00",
       "platform": "mac",
@@ -1633,5 +1639,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "80bef3e47382e194af70bff178f0fb9340942baf"
+  "through": "5b76e3d540a4126aac8a14644e309a2e6a7521a9"
 }
