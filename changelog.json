@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "1e28ce1a1e5997fee9250749877cb116acd3b651",
+      "date": "2026-10-20T09:40:33-07:00",
+      "platform": "all",
+      "text": "A worker no longer starts again for a new message that gives it nothing to do."
+    },
+    {
       "commit": "71fdee273a7b6d921a9368435f15d3fede4cb3ce",
       "date": "2026-10-20T09:34:48-07:00",
       "platform": "all",
@@ -1681,5 +1687,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "71fdee273a7b6d921a9368435f15d3fede4cb3ce"
+  "through": "1e28ce1a1e5997fee9250749877cb116acd3b651"
 }
