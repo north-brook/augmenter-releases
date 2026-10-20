@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2dbe18bda0e369baf3f48482c070c18f0b8167ed",
+      "date": "2026-10-19T18:03:21-07:00",
+      "platform": "all",
+      "text": "A task's worker no longer mistakes an upcoming date for one that has passed. A website action you send is set up and shown to you for Confirm again, instead of failing before it starts. When a worker needs you to pick a time or place, it offers the ones it found rather than asking you to type one. Mac: once you're let in from the waitlist, the app moves on by itself rather than sometimes waiting on the waitlist."
+    },
+    {
       "commit": "f45e51bedbd07224baf7f1cc08d101be3db0a8e6",
       "date": "2026-10-19T17:51:21-07:00",
       "platform": "all",
@@ -1621,5 +1627,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "c33ff670072f298c2c16c040ece9872b11c2f113"
+  "through": "2dbe18bda0e369baf3f48482c070c18f0b8167ed"
 }
