@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "0a7647392fd64b3032ca99543eb7e99f0a86d0fb",
+      "date": "2026-10-20T10:13:25-07:00",
+      "platform": "all",
+      "text": "A task that's yours to do, or waiting on someone else, no longer starts a worker on its own."
+    },
+    {
       "commit": "8b5d7dfa73e5140d2caf832972723b42e412de99",
       "date": "2026-10-20T10:03:03-07:00",
       "platform": "all",
@@ -1693,5 +1699,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "8b5d7dfa73e5140d2caf832972723b42e412de99"
+  "through": "0a7647392fd64b3032ca99543eb7e99f0a86d0fb"
 }
