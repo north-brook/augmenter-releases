@@ -1,6 +1,36 @@
 {
   "notes": [
     {
+      "commit": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081",
+      "date": "2026-10-19T17:30:14-07:00",
+      "platform": "all",
+      "text": "Files from a task's worker arrive in its thread, not in the task's notes."
+    },
+    {
+      "commit": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081",
+      "date": "2026-10-19T17:30:14-07:00",
+      "platform": "all",
+      "text": "A photo you send in Chat is kept in the notes of the todo made from it."
+    },
+    {
+      "commit": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081",
+      "date": "2026-10-19T17:30:14-07:00",
+      "platform": "all",
+      "text": "Open any file in a thread or your notes to preview it."
+    },
+    {
+      "commit": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081",
+      "date": "2026-10-19T17:30:14-07:00",
+      "platform": "mac",
+      "text": "Send any kind of file in Chat or a task's thread."
+    },
+    {
+      "commit": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081",
+      "date": "2026-10-19T17:30:14-07:00",
+      "platform": "mac",
+      "text": "Photos you send show in the thread as photos."
+    },
+    {
       "commit": "a6d526246f3f98e9b22b1c7daa2d37e72f7a4669",
       "date": "2026-10-19T17:29:13-07:00",
       "platform": "mac",
@@ -1585,5 +1615,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "a6d526246f3f98e9b22b1c7daa2d37e72f7a4669"
+  "through": "bf40c268d0ea1608fb0a998348e1e9c2ab24c081"
 }
