@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "a73a534e4d29807cd7e8975d479b5326386a8a72",
+      "date": "2026-10-20T12:22:02-07:00",
+      "platform": "all",
+      "text": "Tasks review pull requests from their code, through your GitHub connection."
+    },
+    {
       "commit": "d23cebecfaef15f9a05192a0b945606b4e5147c9",
       "date": "2026-10-20T10:41:23-07:00",
       "platform": "all",
@@ -1705,5 +1711,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "d23cebecfaef15f9a05192a0b945606b4e5147c9"
+  "through": "a73a534e4d29807cd7e8975d479b5326386a8a72"
 }
