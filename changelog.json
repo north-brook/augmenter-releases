@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "70c04c3c417461ffc2fa3b89019702ff4f007b33",
+      "date": "2026-10-20T14:11:13-07:00",
+      "platform": "all",
+      "text": "Tasks draft GitHub comments, reviews and merges for you to send."
+    },
+    {
       "commit": "368995c5d987ae4fef33ac9e5475329d0862187f",
       "date": "2026-10-20T13:04:07-07:00",
       "platform": "all",
@@ -1723,5 +1729,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "3b185297762855f5e4a2735de6eaf8b19f4d7992"
+  "through": "70c04c3c417461ffc2fa3b89019702ff4f007b33"
 }
