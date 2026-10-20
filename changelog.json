@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "c2578603d49eb759050c185c533ceb0e9ceecea2",
+      "date": "2026-10-19T17:25:13-07:00",
+      "platform": "all",
+      "text": "A sign-in card in a task's thread now has the same space around it as the other cards."
+    },
+    {
       "commit": "fdf955e2e14d654c5802b45f1c2095118666edbc",
       "date": "2026-10-19T13:19:20-07:00",
       "platform": "iphone",
@@ -1573,5 +1579,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "48d4c465bba6b07130e7885d76c997b30edb97ce"
+  "through": "c2578603d49eb759050c185c533ceb0e9ceecea2"
 }
