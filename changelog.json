@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "a6d526246f3f98e9b22b1c7daa2d37e72f7a4669",
+      "date": "2026-10-19T17:29:13-07:00",
+      "platform": "mac",
+      "text": "A source's card in a brief no longer disappears while you move onto it."
+    },
+    {
       "commit": "c2578603d49eb759050c185c533ceb0e9ceecea2",
       "date": "2026-10-19T17:25:13-07:00",
       "platform": "all",
@@ -1579,5 +1585,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "c2578603d49eb759050c185c533ceb0e9ceecea2"
+  "through": "a6d526246f3f98e9b22b1c7daa2d37e72f7a4669"
 }
