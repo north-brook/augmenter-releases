@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "b339797a182035239e63f54ac164f3e265dec00e",
+      "date": "2026-10-21T10:19:38-07:00",
+      "platform": "all",
+      "text": "When the worker asks you to sign in again, its card shows again at the end of the conversation and opens on a page where you can sign in."
+    },
+    {
       "commit": "f911d43066ca1c2249a7014de90e0dc3700d2d01",
       "date": "2026-10-21T10:05:26-07:00",
       "platform": "all",
@@ -1759,5 +1765,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "f911d43066ca1c2249a7014de90e0dc3700d2d01"
+  "through": "b339797a182035239e63f54ac164f3e265dec00e"
 }
