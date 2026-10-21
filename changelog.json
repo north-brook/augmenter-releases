@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "42849316ad412553e76642a774bbf66112d0d2ad",
+      "date": "2026-10-21T07:52:08-07:00",
+      "platform": "all",
+      "text": "When you confirm a website action, the worker now finishes it on the site: through a \"Continue\" step, a reason the site asks for, or a support chat."
+    },
+    {
       "commit": "9882392fa5f46ac53270bb5a985139f3ab375013",
       "date": "2026-10-21T06:37:31-07:00",
       "platform": "all",
@@ -1747,5 +1753,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "9882392fa5f46ac53270bb5a985139f3ab375013"
+  "through": "42849316ad412553e76642a774bbf66112d0d2ad"
 }
