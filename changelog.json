@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "f911d43066ca1c2249a7014de90e0dc3700d2d01",
+      "date": "2026-10-21T10:05:26-07:00",
+      "platform": "all",
+      "text": "When you confirm a website action on a long page, a dialog the site opens at the end (such as an offer to stay) is read and handled, so the action finishes instead of ending unsure whether it went."
+    },
+    {
       "commit": "42849316ad412553e76642a774bbf66112d0d2ad",
       "date": "2026-10-21T07:52:08-07:00",
       "platform": "all",
@@ -1753,5 +1759,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "145e3686b230902c5e3e325a94f3e9c3668b239e"
+  "through": "f911d43066ca1c2249a7014de90e0dc3700d2d01"
 }
