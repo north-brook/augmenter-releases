@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "9882392fa5f46ac53270bb5a985139f3ab375013",
+      "date": "2026-10-21T06:37:31-07:00",
+      "platform": "all",
+      "text": "When a brief service hiccup interrupts a task's worker, it now tries again instead of stopping."
+    },
+    {
       "commit": "f75443f40503404126bd39a2d528c82867f7908f",
       "date": "2026-10-20T17:39:09-07:00",
       "platform": "all",
@@ -1741,5 +1747,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "887d543d2070f4c9d9a06d65abf83b5d0ac04091"
+  "through": "9882392fa5f46ac53270bb5a985139f3ab375013"
 }
