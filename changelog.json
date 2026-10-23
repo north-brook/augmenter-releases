@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "278a4e11f5608a2d15ef7f882a385e46d8205511",
+      "date": "2026-10-23T08:24:20-07:00",
+      "platform": "all",
+      "text": "The worker no longer asks you to sign in to part of a site you're already signed in to."
+    },
+    {
       "commit": "26d349c1b9c5639b7195f4389e7e473f707c2c37",
       "date": "2026-10-23T08:12:00-07:00",
       "platform": "all",
@@ -1789,5 +1795,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "26d349c1b9c5639b7195f4389e7e473f707c2c37"
+  "through": "278a4e11f5608a2d15ef7f882a385e46d8205511"
 }
