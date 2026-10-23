@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "6b5ade9a233c0109b4f7a25aa9f37dc35eb34580",
+      "date": "2026-10-23T08:03:44-07:00",
+      "platform": "all",
+      "text": "Connected Granola and Wispr Flow accounts only ever send their sign-in to that tool's own sign-in server."
+    },
+    {
       "commit": "f178352373787a01b8ac952fdea186377600f35e",
       "date": "2026-10-22T12:58:31-07:00",
       "platform": "all",
@@ -1771,5 +1777,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "78444a4c09af798243e74994759090ff9005b901"
+  "through": "6b5ade9a233c0109b4f7a25aa9f37dc35eb34580"
 }
