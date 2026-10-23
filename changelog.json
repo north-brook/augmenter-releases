@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "2688caeabd1f2047f3254e5305674526655cc295",
+      "date": "2026-10-23T13:35:48-04:00",
+      "platform": "all",
+      "text": "Notes: a new tab for writing freely, with history and a new-note button. Once you stop writing, the tasks in a note are added to your list, and the words each one came from are underlined so you can open the task from the note."
+    },
+    {
       "commit": "278a4e11f5608a2d15ef7f882a385e46d8205511",
       "date": "2026-10-23T08:24:20-07:00",
       "platform": "all",
@@ -1795,5 +1801,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "278a4e11f5608a2d15ef7f882a385e46d8205511"
+  "through": "2688caeabd1f2047f3254e5305674526655cc295"
 }
