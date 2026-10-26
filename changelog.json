@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "28674c217740c094e493145cf1dad25c340d67b4",
+      "date": "2026-10-26T11:01:45-04:00",
+      "platform": "iphone",
+      "text": "Attach is in the bar above the keyboard while you write a note, and the Notes header keeps just History and New note, its title centred."
+    },
+    {
       "commit": "6840526dd198e302c38b4d8b76404409a2903f2e",
       "date": "2026-10-26T09:39:00-04:00",
       "platform": "all",
@@ -1807,5 +1813,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "6aaeddb655daf2a05831e5daf1323de572cdb9ca"
+  "through": "28674c217740c094e493145cf1dad25c340d67b4"
 }
