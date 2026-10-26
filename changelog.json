@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "6840526dd198e302c38b4d8b76404409a2903f2e",
+      "date": "2026-10-26T09:39:00-04:00",
+      "platform": "all",
+      "text": "Tasks that only need you to say when you're free no longer start a worker that has nothing to do."
+    },
+    {
       "commit": "2688caeabd1f2047f3254e5305674526655cc295",
       "date": "2026-10-23T13:35:48-04:00",
       "platform": "all",
@@ -1801,5 +1807,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "f1c7714bdbffcc444a8735748757f3f844a481f0"
+  "through": "6840526dd198e302c38b4d8b76404409a2903f2e"
 }
