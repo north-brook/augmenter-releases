@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "0a5271eac22eebaf09a5f16887b5f13170eb1cda",
+      "date": "2026-10-28T11:23:50-04:00",
+      "platform": "all",
+      "text": "Your task's worker now reads PDFs and documents attached to the email or Slack message the task came from, and tells you when it can't."
+    },
+    {
       "commit": "28674c217740c094e493145cf1dad25c340d67b4",
       "date": "2026-10-26T11:01:45-04:00",
       "platform": "iphone",
@@ -1813,5 +1819,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "655811354d2d7c6e79f94aa69d05b63a501cae97"
+  "through": "0a5271eac22eebaf09a5f16887b5f13170eb1cda"
 }
