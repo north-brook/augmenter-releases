@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "d2704aa3f9500ccba4291ec44becc1706c42fcdc",
+      "date": "2026-10-29T12:51:01-04:00",
+      "platform": "all",
+      "text": "When a website is signed in to the wrong account for a task, the worker asks you to sign in with the right one on a new sign-in card and keeps both, instead of asking you to sign out yourself."
+    },
+    {
       "commit": "0a5271eac22eebaf09a5f16887b5f13170eb1cda",
       "date": "2026-10-28T11:23:50-04:00",
       "platform": "all",
@@ -1819,5 +1825,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "012869dd2c1c749c38da4d9cc9b666c8f5835381"
+  "through": "d2704aa3f9500ccba4291ec44becc1706c42fcdc"
 }
