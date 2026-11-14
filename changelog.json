@@ -1,6 +1,12 @@
 {
   "notes": [
     {
+      "commit": "de121cb1657ff342950f75b979453dd38a88b7d0",
+      "date": "2026-11-13T20:30:49-05:00",
+      "platform": "mac",
+      "text": "Augmenter is heading somewhere new. This update says thank you and removes this version from your Mac in one click."
+    },
+    {
       "commit": "da5a121fefa95bf27227ec561bf9ce3969e40815",
       "date": "2026-11-05T10:03:28-05:00",
       "platform": "all",
@@ -1831,5 +1837,5 @@
       "text": "A text from a business about your own account, like a failed payment, now becomes a todo."
     }
   ],
-  "through": "da5a121fefa95bf27227ec561bf9ce3969e40815"
+  "through": "de121cb1657ff342950f75b979453dd38a88b7d0"
 }
